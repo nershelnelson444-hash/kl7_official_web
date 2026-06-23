@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-text-black-muted: rgb(77, 77, 77);
+  --color-text-black: rgb(0, 0, 0);
+  --color-background-main: rgb(242, 242, 242);
+  --color-black-main: rgb(0, 0, 0);
+  --color-text-white: rgb(255, 255, 255);
+  --color-background-light: rgb(255, 255, 255);
+  --color-text-white-muted: rgb(191, 191, 191);
+  --color-background-mid: rgb(250, 250, 250);
+  --color-grey-main: rgb(217, 217, 217);
+  --color-dark-grey: rgb(136, 136, 136);
+  --color-black-50: rgba(0, 0, 0, 0.5);
+  --color-white-95: rgb(242, 242, 242);
+  --color-white-100: rgb(255, 255, 255);
+  --color-text-extra-muted: rgb(128, 128, 128);
+
+  --font-sans: "Space Grotesk", sans-serif;
+}
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: rgb(242, 242, 242);
+  color: rgb(0, 0, 0);
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* ============================================
+   DESIGN SYSTEM: GLOBAL BUTTON STYLES
+   ============================================ */
+
+/* Primary Button - Default (Light Background) */
+.btn-primary {
+  box-sizing: border-box;
+  width: min-content;
+  height: min-content;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 4px 4px 4px 20px;
+  box-shadow: inset -10px -10px 20px 0px rgba(255, 255, 255, 0.25);
+  background-color: #000000;
+  overflow: clip;
+  align-content: center;
+  flex-wrap: nowrap;
+  gap: 16px;
+  position: relative;
+  border-radius: 16px;
+  border: none;
+  color: #FFFFFF;
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.4;
+  text-decoration: none;
+  cursor: pointer;
+  transition: filter 0.2s ease, transform 0.1s ease;
+}
+
+.btn-primary:hover {
+  filter: brightness(1.1);
+}
+
+.btn-primary:active {
+  transform: scale(0.98);
+}
+
+.btn-primary:focus-visible {
+  outline: 2px solid #000000;
+  outline-offset: 2px;
+}
+
+/* Inverse Button - Dark Background Sections */
+.btn-inverse {
+  box-sizing: border-box;
+  width: min-content;
+  height: min-content;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 4px 4px 4px 20px;
+  box-shadow: inset -10px -10px 20px 0px rgba(255, 255, 255, 0.25);
+  background-color: #FFFFFF;
+  overflow: clip;
+  align-content: center;
+  flex-wrap: nowrap;
+  gap: 16px;
+  position: relative;
+  border-radius: 16px;
+  border: none;
+  color: #000000;
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.4;
+  text-decoration: none;
+  cursor: pointer;
+  transition: filter 0.2s ease, transform 0.1s ease;
+}
+
+.btn-inverse:hover {
+  filter: brightness(0.95);
+}
+
+.btn-inverse:active {
+  transform: scale(0.98);
+}
+
+.btn-inverse:focus-visible {
+  outline: 2px solid #FFFFFF;
+  outline-offset: 2px;
+}
+
+/* Button content wrapper for icon/text layout */
+.btn-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+  white-space: nowrap;
+}
+
+/* Trailing icon circle slot - sits inside the button's existing 4px right
+   padding via the .btn-content gap, does not alter .btn-primary/.btn-inverse
+   padding, border-radius, or box-shadow declarations above. */
+.btn-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 9999px;
+  flex-shrink: 0;
+}
+
+.btn-primary .btn-icon {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: #FFFFFF;
+}
+
+.btn-inverse .btn-icon {
+  background-color: rgba(0, 0, 0, 0.08);
+  color: #000000;
+}
+
+/* ============================================
+   DESIGN SYSTEM: HERO SEARCH BAR STYLE
+   ============================================ */
+
+.hero-search-bar {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: clip;
+  z-index: 0;
+  border-radius: 0px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 16px;
+  color: inherit;
+}
+
+.hero-search-bar::placeholder {
+  color: inherit;
+  opacity: 0.7;
+}
+
+/* Search bar container for hero - 16px radius matches every other surface
+   in the design system (cards, buttons, panels); the prior 0px was an
+   inconsistency, not a deliberate value. */
+.hero-search-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: clip;
+  border-radius: 16px;
+}
+
+/* ============================================
+   UTILITY: Hide scrollbar
+   ============================================ */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* ============================================
+   DESIGN SYSTEM: DUAL RANGE SLIDER (Filter Sidebar)
+   ============================================ */
+.range-thumb {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  margin: 0;
+  transform: translateY(-50%);
+  background: transparent;
+  pointer-events: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.range-thumb::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  background-color: #000000;
+  border: 3px solid #FFFFFF;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.range-thumb::-moz-range-thumb {
+  pointer-events: auto;
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  background-color: #000000;
+  border: 3px solid #FFFFFF;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.range-thumb::-moz-range-track {
+  background: transparent;
+  border: none;
+}

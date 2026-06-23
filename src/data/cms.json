@@ -1,0 +1,1976 @@
+{
+  "inventory": [
+    {
+      "id": "nQPe2BuOV",
+      "slug": "veltora-seryn",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": "Veltora Seryn"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/CbeL3Ejw6uVsAM0vUbkTyDYdw8o.png"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The Veltora Seryn Avant Performance is the ultimate wolf in sheep's clothing\u2014a practical family estate with supercar-destroying performance. The twin-turbo V8 delivers brutal acceleration, while the quattro all-wheel-drive system ensures year-round usability.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2024"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Veltora"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "Seryn SS"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "Performance Max"
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-010-2024"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "WAUZZZ4G9PN123456"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "119500"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "100k-200k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": false
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": ""
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 1
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "4.0L Twin-Turbo V8"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "630 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "8-Speed Tiptronic Automatic"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "AWD (Quattro)"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "Estate"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "estate"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "Nardo Grey"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "Black Valcona Leather with Diamond Stitching"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 5
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 5
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>RS Sport Exhaust System with Black Tailpipes</p></li><li data-preset-tag=\"p\"><p>22\" RS Twisted-Blade Design Wheels</p></li><li data-preset-tag=\"p\"><p>Carbon Ceramic Brakes (10-Piston Front Calipers)</p></li><li data-preset-tag=\"p\"><p>RS Sport Suspension Plus with Dynamic Ride Control</p></li><li data-preset-tag=\"p\"><p>RS Dynamic Package (Top Speed Increased to 190mph)</p></li><li data-preset-tag=\"p\"><p>RS Torque Splitter (Rear Sport Differential)</p></li><li data-preset-tag=\"p\"><p>Carbon Fiber Exterior Package</p></li><li data-preset-tag=\"p\"><p>RS Sport Seats Plus with Honeycomb Pattern</p></li><li data-preset-tag=\"p\"><p>Heated &amp; Ventilated Front Seats</p></li><li data-preset-tag=\"p\"><p>Virtual Cockpit Plus (12.3\" Digital Display)</p></li><li data-preset-tag=\"p\"><p>MMI Touch Response (Dual Screens)</p></li><li data-preset-tag=\"p\"><p>Bang &amp; Olufsen 3D Sound (16 Speakers)</p></li><li data-preset-tag=\"p\"><p>Head-Up Display</p></li><li data-preset-tag=\"p\"><p>360\u00b0 Camera &amp; Park Assist</p></li><li data-preset-tag=\"p\"><p>Adaptive Cruise Assist with Traffic Jam</p></li><li data-preset-tag=\"p\"><p>Matrix LED Headlights with Laser High Beam</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "As New"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 1
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "Full Veltora Main Dealer"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Veltora Manufacturer Warranty Remaining"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Valid until 2026"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/CbeL3Ejw6uVsAM0vUbkTyDYdw8o.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bQnGxQ6KL",
+      "slug": "krynox-zr_9",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": "Krynox ZR-9"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/HxrxWgRFFfUGYrexKusrkvrw.png"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The Krynox ZR-9 Spider is a technological tour de force that redefines supercar performance. With its carbon fiber MonoCell II chassis, retractable hardtop, and 720 horsepower twin-turbo V8, the Spider delivers mind-bending acceleration alongside open-air exhilaration.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2023"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Krynox"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "ZR-9 Sport"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "Spidy "
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-007-2023"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "SBM14DCA0PW123456"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "299,000"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "over-200k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": false
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": "Exclusive"
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 1800
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "4.0L Twin-Turbo V8"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "720 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "7-Speed Seamless Shift Gearbox"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "RWD"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "Convertible"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "convertible"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "McLaren Orange (MSO)"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "Black Alcantara with Orange Contrast"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 2
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 2
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>MSO Defined Bespoke Paint (McLaren Orange)</p></li><li data-preset-tag=\"p\"><p>Carbon Fiber Aero Package (MSO)</p></li><li data-preset-tag=\"p\"><p>Lightweight Forged Wheels (10-Spoke)</p></li><li data-preset-tag=\"p\"><p>Carbon Ceramic Brakes with Calipers in Orange</p></li><li data-preset-tag=\"p\"><p>Retractable Hard Top (Electrochromic)</p></li><li data-preset-tag=\"p\"><p>Variable Drift Control (VDC)</p></li><li data-preset-tag=\"p\"><p>Proactive Chassis Control II</p></li><li data-preset-tag=\"p\"><p>Full Alcantara Interior Upgrade</p></li><li data-preset-tag=\"p\"><p>McLaren Track Telemetry (MTT)</p></li><li data-preset-tag=\"p\"><p>12-Speaker BOWERS &amp; WILKINS Sound</p></li><li data-preset-tag=\"p\"><p>McLaren Iris Infotainment</p></li><li data-preset-tag=\"p\"><p>Reversing Camera &amp; Front Lift System</p></li><li data-preset-tag=\"p\"><p>Vehicle Lift (Front Axle)</p></li><li data-preset-tag=\"p\"><p>Stealth Pack (Black Exterior Accents)</p></li><li data-preset-tag=\"p\"><p>Luxury Pack (Upgraded Trim)</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "As New"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 1
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "Official Krynox Service History"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Krynox Approved Warranty"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Valid until 2025"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/HxrxWgRFFfUGYrexKusrkvrw.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "WqOR5pu42",
+      "slug": "dreznak-karov",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": "Dreznak Karov"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/fV7PP4Suze13Sv8tVRNo6S5A6SA.png"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The Range Rover Sport SV represents the pinnacle of British luxury performance SUVs. Hand-finished by Special Vehicle Operations, this bespoke masterpiece combines explosive V8 power, unparalleled luxury, and genuine off-road capability.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2024"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Dreznak"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "Karov Sport"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "P50 SV Edition"
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-006-2024"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "SALWA2FV7PA123456"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "145,000"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "100k-200k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": true
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": ""
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 1
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "4.4L Twin-Turbo V8 (BMW-sourced)"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "523 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "8-Speed Automatic"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "AWD (Intelligent 4WD)"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "SUV"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "suv"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "Santorini Black Metallic"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "SV Bespoke Leather (Navy/Tan)"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 4
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 5
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>SV Bespoke Interior Program</p></li><li data-preset-tag=\"p\"><p>Carbon Fiber Exterior Pack (SV)</p></li><li data-preset-tag=\"p\"><p>23\" SV Exclusive Forged Wheels</p></li><li data-preset-tag=\"p\"><p>Electronic Active Rear Differential</p></li><li data-preset-tag=\"p\"><p>Active Anti-Roll Control</p></li><li data-preset-tag=\"p\"><p>Air Suspension with Adaptive Dynamics</p></li><li data-preset-tag=\"p\"><p>Configurable Terrain Response 2</p></li><li data-preset-tag=\"p\"><p>SV Signature Suite (Extended Leather &amp; Metal)</p></li><li data-preset-tag=\"p\"><p>Windsor Leather Seating</p></li><li data-preset-tag=\"p\"><p>Executive Class Rear Seats (Heated, Cooled, Massage)</p></li><li data-preset-tag=\"p\"><p>Pivi Pro Infotainment (Curved Display)</p></li><li data-preset-tag=\"p\"><p>Meridian Signature Sound System (29 Speakers)</p></li><li data-preset-tag=\"p\"><p>4-Zone Climate Control</p></li><li data-preset-tag=\"p\"><p>Head-Up Display</p></li><li data-preset-tag=\"p\"><p>360\u00b0 Camera &amp; Wade Sensing</p></li><li data-preset-tag=\"p\"><p>Advanced Driver Assistance Pack</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "As New"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 1
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "Dreznak Approved"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Full Manufacturer Warranty"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Valid until 2026"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/fV7PP4Suze13Sv8tVRNo6S5A6SA.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "HMd59I4V7",
+      "slug": "aurvane-celeste",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": "Aurvane Celeste"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/4oi5yZZLWXhveOmERpd08vztqpA.png"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The BMW M4 Competition xDrive delivers supercar performance with all-weather capability and everyday usability. The twin-turbo inline-six produces an intoxicating blend of power and sound, while the xDrive system ensures relentless traction.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2023"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Aurvane"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "Celeste RP4"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "Competition"
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-005-2023"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "WBS8M9C01P7B12345"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "82,500"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "50k-100k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": false
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": ""
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 5
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "3.0L Twin-Turbo Inline-6"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "503 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "8-Speed Steptronic Automatic"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "AWD (xDrive)"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "Coupe"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "coupe"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "Isle of Man Green Metallic"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "Merino Leather (Black)"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 2
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 4
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>M Carbon Ceramic Brakes</p></li><li data-preset-tag=\"p\"><p>M Carbon Fiber Roof &amp; Exterior Trim</p></li><li data-preset-tag=\"p\"><p>19\"/20\" M Light Alloy Wheels (Staggered)</p></li><li data-preset-tag=\"p\"><p>M Sport Exhaust System</p></li><li data-preset-tag=\"p\"><p>Adaptive M Suspension Professional</p></li><li data-preset-tag=\"p\"><p>M xDrive All-Wheel Drive System</p></li><li data-preset-tag=\"p\"><p>M Carbon Bucket Seats</p></li><li data-preset-tag=\"p\"><p>Merino Leather Interior with Extended Trim</p></li><li data-preset-tag=\"p\"><p>M Multifunction Seats (Heating)</p></li><li data-preset-tag=\"p\"><p>BMW Live Cockpit Professional (Curved Display)</p></li><li data-preset-tag=\"p\"><p>Harman Kardon Surround Sound</p></li><li data-preset-tag=\"p\"><p>Head-Up Display with M-Specific Content</p></li><li data-preset-tag=\"p\"><p>M Drive Professional (Track Mode &amp; Drift Analyzer)</p></li><li data-preset-tag=\"p\"><p>Parking Assistant Plus with 360\u00b0 Camera</p></li><li data-preset-tag=\"p\"><p>Driving Assistant Professional</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "Excellent"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 1
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "Full Aurvane Main Dealer History"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Aurvane Warranty until 2026"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Valid until 2025"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/4oi5yZZLWXhveOmERpd08vztqpA.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "rGdaGfniy",
+      "slug": "soliven-brisa",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": "Soliven Brisa"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/mfPK5d69AOHTikH8cS4uxQ5rpU.png"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The Aston Martin DB12 redefines British luxury grand touring with breathtaking performance and timeless elegance. Dubbed the \"Super Tourer,\" the DB12 combines handcrafted luxury with cutting-edge technology and exhilarating V8 power.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2024"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Soliven"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "Brisa T12"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "V8"
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-004-2024"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "SCFRMFAW1PGL12345"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "195,000"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "100k-200k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": false
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": ""
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 500
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "4.0L Twin-Turbo V8"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "680 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "8-Speed Automatic"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "RWD"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "Coupe"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "coupe"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "Racing Green"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "Tan Leather"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 2
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 4
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Sports Plus Package with Track Driving ModesCarbon Fiber Aero Package</p></li><li data-preset-tag=\"p\"><p>21\" Diamond-Turned Alloy Wheels</p></li><li data-preset-tag=\"p\"><p>Carbon Ceramic Brakes</p></li><li data-preset-tag=\"p\"><p>Electronic Rear Differential</p></li><li data-preset-tag=\"p\"><p>Adaptive Damping System</p></li><li data-preset-tag=\"p\"><p>Full Bridge of Weir Leather Interior</p></li><li data-preset-tag=\"p\"><p>Hand-Stitched Interior Detailing</p></li><li data-preset-tag=\"p\"><p>10.25\" Infotainment System with Wireless Connectivity</p></li><li data-preset-tag=\"p\"><p>Premium Audio System (1000W)</p></li><li data-preset-tag=\"p\"><p>Heated &amp; Ventilated Seats</p></li><li data-preset-tag=\"p\"><p>360\u00b0 Surround View Camera</p></li><li data-preset-tag=\"p\"><p>Adaptive Cruise Control</p></li><li data-preset-tag=\"p\"><p>Park Assist with Sensors</p></li><li data-preset-tag=\"p\"><p>Keyless Entry &amp; Start</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "As New"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 1
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "Soliven Dealer Serviced"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Manufacturer Warranty Remaining"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Valid until 2026"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/mfPK5d69AOHTikH8cS4uxQ5rpU.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "p8uMDU1rp",
+      "slug": "pharyx-full",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": "Pharyx Full"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/OgVnjpO2Z8GWXyUOORqVIR0TxHA.png"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The Mercedes-AMG G63 combines iconic boxy design with brutal AMG performance and unparalleled luxury. This hand-built V8 powerhouse delivers supercar-level acceleration wrapped in the most capable off-road package.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2024"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Pharyx"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "Full Z8"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "AMS"
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-003-2024"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "WDC4631231X123456"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "179,000"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "100k-200k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": false
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": "Just In"
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 800
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "4.0L Twin-Turbo V8"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "585 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "9-Speed Automatic"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "AWD (4MATIC)"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "SUV"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "suv"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "Obsidian Black Metallic"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "Nappa Leather Exclusive (Black/Red)"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 4
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 5
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>AMG Performance Exhaust System</p></li><li data-preset-tag=\"p\"><p>22\" AMG Multi-Spoke Alloy Wheels</p></li><li data-preset-tag=\"p\"><p>AMG Ride Control Suspension</p></li><li data-preset-tag=\"p\"><p>Night Package with Carbon Fiber Accents</p></li><li data-preset-tag=\"p\"><p>AMG Track Pace Performance Data System</p></li><li data-preset-tag=\"p\"><p>Burmester 3D Surround Sound</p></li><li data-preset-tag=\"p\"><p>MBUX Infotainment with Dual 12.3\" Displays</p></li><li data-preset-tag=\"p\"><p>64-Color Ambient Lighting</p></li><li data-preset-tag=\"p\"><p>Heated &amp; Ventilated Multi-Contour Front Seats</p></li><li data-preset-tag=\"p\"><p>Heated Rear Seats</p></li><li data-preset-tag=\"p\"><p>Panoramic Sliding Sunroof</p></li><li data-preset-tag=\"p\"><p>360\u00b0 Camera &amp; Parking Assist</p></li><li data-preset-tag=\"p\"><p>Adaptive Cruise Control with Stop &amp; Go</p></li><li data-preset-tag=\"p\"><p>Blind Spot Assist &amp; Lane Keep Assist</p></li><li data-preset-tag=\"p\"><p>Wireless Phone Charging</p></li><li data-preset-tag=\"p\"><p>Head-Up Display</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "As New"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 0
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "N/A (Brand New)"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Full Pharyx Manufacturer Warranty (3 Years)"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Not Required (New Vehicle)"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/OgVnjpO2Z8GWXyUOORqVIR0TxHA.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "H3Q8CHqnH",
+      "slug": "zethrux-infernum",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": " Zethrux Infernum"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/uE04QbYxGVdU37L4tEwMOvLoXXc.webp"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The Porsche 911 GT3 RS is a naturally aspirated masterpiece engineered for track dominance and road precision. With its motorsport-derived technology, aggressive aerodynamics, and purist driving experience, this is the ultimate driver's Porsche.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2023"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Zethrux"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "Infernum 940"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "GTS"
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-002-2023"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "WP0ZZZ99ZTS123456"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "241,350"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "over-200k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": true
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": "Performance Icon"
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 2800
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "4.0L Naturally Aspirated Flat-6"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "525 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "7-Speed PDK Automatic"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "RWD (Rear-Wheel Drive)"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "Coupe"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "coupe"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "GT Silver Metallic"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "Black Leather with Contrasting Stitching Doors: 2"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 2
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 2
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Lightweight CFRP Roof &amp; Hood</p></li><li data-preset-tag=\"p\"><p>Active Rear-Axle Steering</p></li><li data-preset-tag=\"p\"><p>Porsche Torque Vectoring Plus</p></li><li data-preset-tag=\"p\"><p>Race-Derived Aerodynamics Package</p></li><li data-preset-tag=\"p\"><p>Magnesium Wheels (Center Lock)</p></li><li data-preset-tag=\"p\"><p>Porsche Ceramic Composite Brakes (PCCB)</p></li><li data-preset-tag=\"p\"><p>Sport Chrono Package with Track Precision App</p></li><li data-preset-tag=\"p\"><p>Carbon Fiber Interior Package</p></li><li data-preset-tag=\"p\"><p>Lightweight Full Bucket Seats</p></li><li data-preset-tag=\"p\"><p>Alcantara Steering Wheel with Mode Switch</p></li><li data-preset-tag=\"p\"><p>Porsche Communication Management (PCM)</p></li><li data-preset-tag=\"p\"><p>BOSE Surround Sound System</p></li><li data-preset-tag=\"p\"><p>Climate Control</p></li><li data-preset-tag=\"p\"><p>Front Axle Lift System</p></li><li data-preset-tag=\"p\"><p>Fire Extinguisher (Motorsport Spec)</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "As New"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 1
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "Zethrux Centre Service History"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Extended Zethrux Warranty Available"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Valid until 2025"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/zLwMLDKyl5lDvbk0QZ1y8VMP5I.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "LLEOENPi3",
+      "slug": "emblora-wyndcroft",
+      "draft": false,
+      "fieldData": {
+        "i251F_cLI": {
+          "type": "string",
+          "value": "Emblora Wyndcroft"
+        },
+        "yhmUaSJgn": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/2qQNhAtYhdcQfxf5wHpcDw71mak.webp"
+        },
+        "HKJOw7KI7": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">The Emblora Wyndcroft represents the pinnacle of super SUV performance. With its aggressive styling, track-ready dynamics, and luxurious Italian craftsmanship, this vehicle offers an uncompromising blend of everyday usability and supercar performance.</p>"
+        },
+        "AsGqvZIRE": {
+          "type": "string",
+          "value": "2024"
+        },
+        "FhhhIfKRq": {
+          "type": "enum",
+          "value": "Emblora"
+        },
+        "dWaufMx5m": {
+          "type": "string",
+          "value": "Wyndcroft S1"
+        },
+        "YwnNt4bSJ": {
+          "type": "string",
+          "value": "Ultimate"
+        },
+        "N5J_P9k5F": {
+          "type": "string",
+          "value": "LUX-001-2024"
+        },
+        "nbtxPVxMC": {
+          "type": "string",
+          "value": "ZPBUA1ZL9PLA12345"
+        },
+        "ieALPznS3": {
+          "type": "string",
+          "value": "239,950"
+        },
+        "quZuCOPdT": {
+          "type": "multiCollectionReference",
+          "value": [
+            "over-200k"
+          ]
+        },
+        "mRbkUObKn": {
+          "type": "boolean",
+          "value": true
+        },
+        "BGGrMCEzn": {
+          "type": "boolean",
+          "value": true
+        },
+        "oBzwmlvOK": {
+          "type": "string",
+          "value": "New Arrival"
+        },
+        "FixYCUMxe": {
+          "type": "number",
+          "value": 1200
+        },
+        "b0EvjjHmu": {
+          "type": "string",
+          "value": "4.0L Twin-Turbo V8"
+        },
+        "aoQqPXyK7": {
+          "type": "string",
+          "value": "666 HP"
+        },
+        "DUdYPJIP0": {
+          "type": "string",
+          "value": "8-Speed Automatic"
+        },
+        "VOiJF5nuX": {
+          "type": "string",
+          "value": "AWD (All-Wheel Drive)"
+        },
+        "gCShDyGRg": {
+          "type": "enum",
+          "value": "SUV"
+        },
+        "WeRM4zBli": {
+          "type": "multiCollectionReference",
+          "value": [
+            "suv"
+          ]
+        },
+        "XKcYqdDj3": {
+          "type": "string",
+          "value": "Petrol"
+        },
+        "BpRFrjZwy": {
+          "type": "string",
+          "value": "Nero Noctis (Matte Black)"
+        },
+        "BsutmQ78B": {
+          "type": "string",
+          "value": "Nero Ade (Black Leather)"
+        },
+        "hNda28YpA": {
+          "type": "number",
+          "value": 4
+        },
+        "R6wR_I_UP": {
+          "type": "number",
+          "value": 5
+        },
+        "P8jIPIoSA": {
+          "type": "formattedText",
+          "value": "<ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Carbon Fiber Roof</p></li><li data-preset-tag=\"p\"><p>Akrapovic Titanium Exhaust System</p></li><li data-preset-tag=\"p\"><p>23\" Taigete Lightweight Wheels</p></li><li data-preset-tag=\"p\"><p>Carbon Ceramic Brakes</p></li><li data-preset-tag=\"p\"><p>Adaptive Air Suspension with Sport Settings</p></li><li data-preset-tag=\"p\"><p>Rally Mode &amp; Corsa Dynamic Mode</p></li><li data-preset-tag=\"p\"><p>Premium Alcantara Interior</p></li><li data-preset-tag=\"p\"><p>12.3\" Digital Instrument Cluster</p></li><li data-preset-tag=\"p\"><p>8.4\" Touchscreen Infotainment</p></li><li data-preset-tag=\"p\"><p>Bang &amp; Olufsen 3D Sound System</p></li><li data-preset-tag=\"p\"><p>Apple CarPlay &amp; Android Auto</p></li><li data-preset-tag=\"p\"><p>360-Degree Camera System</p></li><li data-preset-tag=\"p\"><p>Advanced Driver Assistance Systems</p></li><li data-preset-tag=\"p\"><p>Heated &amp; Ventilated Front Seats</p></li><li data-preset-tag=\"p\"><p>Panoramic Sunroof</p></li><li data-preset-tag=\"p\"><p>Ambient Lighting Package</p></li></ul>"
+        },
+        "mwpOsOmon": {
+          "type": "enum",
+          "value": "As New"
+        },
+        "i2W8PQvdS": {
+          "type": "number",
+          "value": 0
+        },
+        "AVWSdqHPq": {
+          "type": "string",
+          "value": "Full Emblora Dealer Service History"
+        },
+        "S3iwwd2B1": {
+          "type": "string",
+          "value": "Remaining Manufacturer Warranty until 2027"
+        },
+        "Vj1xGOKCN": {
+          "type": "string",
+          "value": "Valid until 2025"
+        },
+        "cMANx2t9u": {
+          "type": "boolean",
+          "value": true
+        },
+        "BVMRK1GFF": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/pqjYMD23nKJ7cqAxEQtMACgpNUI.png"
+        },
+        "GhhqWNVLi": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/plEyu7TH68VDPzjMAXNxgPQNM.webp"
+        },
+        "XGFwlZjwx": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/1dxiEhbe1sGgIcwncoFnhvG6USc.png"
+        },
+        "c7AF1En5j": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/oEMJH1EUoEF1N6QTZO5Esx9ZLc.png"
+        },
+        "EtAYXNeZt": {
+          "type": "image",
+          "value": null
+        },
+        "FG2chTwnx": {
+          "type": "image",
+          "value": null
+        },
+        "EL0xyr25o": {
+          "type": "image",
+          "value": null
+        },
+        "WbM1SrhyS": {
+          "type": "image",
+          "value": null
+        },
+        "h97V2CRlX": {
+          "type": "image",
+          "value": null
+        },
+        "H75tS62Rl": {
+          "type": "image",
+          "value": null
+        },
+        "v3aq1d45g": {
+          "type": "image",
+          "value": null
+        },
+        "Pn_b6B1bD": {
+          "type": "image",
+          "value": null
+        },
+        "ul36gHcHG": {
+          "type": "image",
+          "value": null
+        },
+        "ASNEpv3dD": {
+          "type": "image",
+          "value": null
+        },
+        "hKRPSptcH": {
+          "type": "image",
+          "value": null
+        },
+        "xCieTL5ji": {
+          "type": "image",
+          "value": null
+        },
+        "eMMBymCI8": {
+          "type": "image",
+          "value": null
+        },
+        "gyq5uHdrJ": {
+          "type": "image",
+          "value": null
+        },
+        "D8XgE6FXO": {
+          "type": "image",
+          "value": null
+        },
+        "W0UxESbms": {
+          "type": "image",
+          "value": null
+        }
+      }
+    }
+  ],
+  "blog": [
+    {
+      "id": "uVfflASL7",
+      "slug": "from-first-enquiry-to-dream-delivery-inside-marcus-s-journey-to-his-mclaren-720s-spider",
+      "draft": false,
+      "fieldData": {
+        "vE5dzHwR_": {
+          "type": "string",
+          "value": "From First Enquiry to Dream Delivery: Inside Marcus's Journey to His McLaren 720S Spider"
+        },
+        "OxK7M6yCN": {
+          "type": "boolean",
+          "value": false
+        },
+        "Kbtb6KX_T": {
+          "type": "string",
+          "value": "Follow Marcus Chen's journey from browsing our website to taking delivery of his McLaren 720S Spider. See what the luxury car buying experience should really look like."
+        },
+        "ems8fj_dg": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/HVYq3SLB16XLlrsHMYoHDg0KCk.webp"
+        },
+        "zvFxw4BYS": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">Not every car purchase is just a transaction. Sometimes, it's the culmination of years of aspiration, careful planning, and finding the right partner to make it happen. This is the story of Marcus Chen, a 42-year-old tech entrepreneur from North London, and his journey to owning the McLaren 720S Spider he'd dreamed about for five years.</p><p dir=\"auto\">We're sharing Marcus's experience (with his permission) because it perfectly illustrates what the luxury car buying process should look like\u2014from that first curious email to the moment the keys are handed over.</p><h5 dir=\"auto\"><strong>The Beginning: \"I Wasn't Sure I Was Ready\"</strong></h5><p dir=\"auto\">Marcus first contacted us in January 2024 through a simple enquiry form on our website. His message was straightforward:</p><p dir=\"auto\"><em>\"I've been following the 720S since it launched. I'm finally in a position to consider one seriously. Not sure if I'm ready to pull the trigger, but I'd love to understand what's involved. Do you have time for a conversation?\"</em></p><p dir=\"auto\">Our sales director, Felix, called Marcus within two hours.</p><p dir=\"auto\"><strong>Felix's perspective:</strong> \"I could tell immediately that Marcus was serious but cautious. He'd done his research\u2014he knew the specs, the competitors, the pricing. What he needed wasn't a sales pitch. He needed someone to help him think through whether this was the right time and the right car.\"</p><p dir=\"auto\">They talked for 45 minutes. Not about deposits or financing or closing the deal. About Marcus's driving experience (he'd owned an Audi R8 previously), his usage patterns (weekend drives, occasional track days), his concerns (maintenance costs, practicality), and his timeline (no rush\u2014he wanted to get it right).</p><p dir=\"auto\">Felix's closing line? <em>\"Marcus, I don't think you should buy anything today. Take your time. When you're ready\u2014whether that's next month or next year\u2014we'll be here.\"</em></p><h5 dir=\"auto\"><strong>The Research Phase: No Pressure, Just Information</strong></h5><p dir=\"auto\">Over the next six weeks, Marcus visited our showroom three times. Not to buy\u2014just to look, sit in cars, ask questions, and gradually build confidence that this was the right decision.</p><p dir=\"auto\"><strong>Visit 1: The Walk-Around</strong> Felix showed Marcus two 720S models we had in stock\u2014a coupe in Burton Blue and a Spider in Silica White. No test drive yet. Just an hour of Marcus asking every question he could think of:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>What's the real-world fuel economy?</p></li><li data-preset-tag=\"p\"><p>How much are the carbon ceramic brakes to replace?</p></li><li data-preset-tag=\"p\"><p>What does McLaren's warranty actually cover?</p></li><li data-preset-tag=\"p\"><p>Can it handle British potholes without constant damage?</p></li></ul><p dir=\"auto\">Felix answered every question honestly, including the less glamorous truths: \"Yes, the ride is firm. Yes, running costs are significant. Yes, you'll need to budget \u00a33,000-\u00a35,000 annually for servicing and maintenance.\"</p><p dir=\"auto\"><strong>Visit 2: The Test Drive</strong> Three weeks later, Marcus returned for a proper test drive in the Silica White Spider. Felix mapped out a route that included motorway, A-roads, and tight country lanes\u2014a real-world evaluation, not a marketing exercise.</p><p dir=\"auto\">Marcus's reaction when he returned? <em>\"This is... this is insane. In the best possible way.\"</em></p><p dir=\"auto\">But he still didn't buy. He wanted to sleep on it.</p><p dir=\"auto\"><strong>Visit 3: The Spec Discussion</strong> A week later, Marcus came back with a question: \"If I were to order one, what would you spec?\"</p><p dir=\"auto\">They spent two hours building the perfect configuration:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>McLaren Orange (MSO Defined paint\u2014Marcus's dream color)</p></li><li data-preset-tag=\"p\"><p>Carbon Fiber Aero Package</p></li><li data-preset-tag=\"p\"><p>Lightweight forged wheels</p></li><li data-preset-tag=\"p\"><p>Full Alcantara interior</p></li><li data-preset-tag=\"p\"><p>BOWERS &amp; WILKINS sound system</p></li></ul><p dir=\"auto\">The conversation wasn't about upselling. It was about creating something Marcus would love for years, not just months.</p><h5 dir=\"auto\"><strong>The Decision: \"I'm Ready\"</strong></h5><p dir=\"auto\">In March, Marcus sent a simple text to Felix: <em>\"I'm ready. Let's do it.\"</em></p><p dir=\"auto\">But there was a problem: we didn't have a 720S Spider in McLaren Orange. We had two options:</p><p dir=\"auto\"><strong>Option A:</strong> Take delivery of our Silica White Spider immediately (it was stunning, but not Marcus's dream spec).</p><p dir=\"auto\"><strong>Option B:</strong> Source the perfect car\u2014McLaren Orange, low mileage, full spec\u2014even if it took time.</p><p dir=\"auto\">Marcus chose Option B. \"I've waited five years. I can wait a bit longer for exactly the right car.\"</p><p dir=\"auto\">Felix got to work.</p><h5 dir=\"auto\"><strong>The Hunt: Finding \"The One\"</strong></h5><p dir=\"auto\">Finding a McLaren 720S Spider in MSO Orange with the right specification and verified history isn't easy. These cars are rare, and the good ones sell quickly.</p><p dir=\"auto\">Felix contacted our network of trusted dealers, private sellers, and auction houses. He tracked down three candidates:</p><p dir=\"auto\"><strong>Car 1:</strong> Perfect spec, wrong color (Volcano Red) <strong>Car 2:</strong> Right color, too many miles (12,000+ in 18 months) <strong>Car 3:</strong> McLaren Orange, 1,800 miles, full spec, single owner, full McLaren dealer history</p><p dir=\"auto\">Car 3 was located in Monaco. Felix flew out personally to inspect it.</p><p dir=\"auto\">His report to Marcus: <em>\"This is the one. Immaculate condition, exactly the spec you want, verified history. I've negotiated a fair price. It's currently listed at \u20ac315,000. I can secure it for \u20ac299,000 (approximately \u00a3255,000). Do you want me to proceed?\"</em></p><p dir=\"auto\">Marcus's response came in minutes: <em>\"Yes. Let's bring it home.\"</em></p><h5 dir=\"auto\"><strong>The Process: Handling the Details</strong></h5><p dir=\"auto\">Once Marcus committed, we handled everything:</p><p dir=\"auto\"><strong>Week 1: Acquisition &amp; Transportation</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Completed the purchase in Monaco</p></li><li data-preset-tag=\"p\"><p>Arranged specialist transport back to the UK</p></li><li data-preset-tag=\"p\"><p>Coordinated shipping and customs clearance</p></li></ul><p dir=\"auto\"><strong>Week 2: Preparation</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Full 150-point technical inspection by our team</p></li><li data-preset-tag=\"p\"><p>Professional detailing (ceramic coating, paint correction)</p></li><li data-preset-tag=\"p\"><p>Software updates and any minor servicing</p></li><li data-preset-tag=\"p\"><p>Fresh MOT and HPI clear certification</p></li></ul><p dir=\"auto\"><strong>Week 3: Financing &amp; Documentation</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Worked with Marcus's preferred lender to secure competitive financing (2.9% APR over 4 years)</p></li><li data-preset-tag=\"p\"><p>Structured the deal: \u00a350,000 deposit, \u00a32,850/month, with a final balloon payment</p></li><li data-preset-tag=\"p\"><p>Prepared all paperwork for DVLA registration</p></li></ul><p dir=\"auto\">Marcus never had to chase us. We sent daily updates\u2014photos of the car being detailed, inspection reports, finance documents for review.</p><h5 dir=\"auto\"><strong>The Handover: Making It Special</strong></h5><p dir=\"auto\">On delivery day, we didn't just hand over keys in the car park.</p><p dir=\"auto\"><strong>What we arranged:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Private handover in our showroom (no distractions, no other customers)</p></li><li data-preset-tag=\"p\"><p>Full walk-around with Felix explaining every feature</p></li><li data-preset-tag=\"p\"><p>Complete tutorial on the McLaren Track Telemetry system</p></li><li data-preset-tag=\"p\"><p>Professional photography session (Marcus and his new car)</p></li><li data-preset-tag=\"p\"><p>Welcome package: custom car cover, McLaren maintenance guide, our direct line for any questions</p></li></ul><p dir=\"auto\">Felix spent 90 minutes with Marcus, covering everything from how to operate the retractable roof to how to engage Track mode safely.</p><p dir=\"auto\"><strong>Marcus's words:</strong> <em>\"I've bought expensive cars before, but I've never felt this level of care. You didn't just sell me a car\u2014you helped me get exactly what I wanted, and you made the whole process enjoyable. That's rare.\"</em></p><h5 dir=\"auto\"><strong>The Aftermath: Why This Matters</strong></h5><p dir=\"auto\">Three months later, Marcus sent us this message:</p><p dir=\"auto\"><em>\"I've put 2,500 miles on the 720S. I've taken it to Scotland, to the Cotswolds, and to Silverstone for a track day. Every time I drive it, I remember why I waited five years for this moment. Thank you for making it perfect.\"</em></p><p dir=\"auto\">He also referred two friends who've since become clients.</p><h5 dir=\"auto\"><strong>What This Story Teaches Us</strong></h5><p dir=\"auto\">Marcus's journey highlights what luxury car buying should be:</p><p dir=\"auto\"><strong>1. No pressure.</strong> Felix could have pushed for a sale in January. Instead, he gave Marcus space to make the right decision.</p><p dir=\"auto\"><strong>2. Honesty.</strong> We didn't oversell or hide the realities of McLaren ownership. We presented facts and let Marcus decide.</p><p dir=\"auto\"><strong>3. Partnership.</strong> When Marcus chose to wait for the perfect car, we didn't try to convince him to settle. We found exactly what he wanted.</p><p dir=\"auto\"><strong>4. Expertise.</strong> Sourcing a car from Monaco, handling international logistics, coordinating financing\u2014Marcus didn't have to become an expert. We were.</p><p dir=\"auto\"><strong>5. Care.</strong> From the first phone call to the handover and beyond, Marcus felt valued, not just like a transaction.</p><h5 dir=\"auto\"><strong>This Is How We Work</strong></h5><p dir=\"auto\">Not every purchase takes four months or involves sourcing a car from Monaco. Some clients know exactly what they want and move quickly. Others take their time.</p><p dir=\"auto\">What doesn't change is our approach: listen, educate, deliver, and support.</p><p dir=\"auto\">Whether you're buying your first luxury car or your tenth, whether you're ready today or still exploring, we're here to help you navigate the process with confidence.</p><p dir=\"auto\"><strong>Your dream car is out there.</strong> Let's find it together.</p><h4 dir=\"auto\"><strong>A Note From Marcus</strong></h4><p dir=\"auto\">We asked Marcus if he'd share his own words about the experience:</p><p dir=\"auto\"><em>\"I run a tech company, so I'm used to evaluating partners carefully. What impressed me most wasn't the car itself\u2014it was how Felix and the team treated me. I never felt rushed. I never felt like just another sale. They genuinely wanted me to make the right decision, even if that meant waiting or looking elsewhere.</em></p><p dir=\"auto\"><em>When I finally took delivery of my 720S, it felt like the culmination of a partnership, not a transaction. The car is incredible\u2014but the experience of buying it from the right people? That's what I'll remember.\"</em></p><p dir=\"auto\">\u2014 Marcus Chen, McLaren 720S Spider Owner</p>"
+        }
+      }
+    },
+    {
+      "id": "HgxUzuJ1X",
+      "slug": "why-the-used-luxury-car-market-is-booming-in-2024-(and-what-it-means-for-buyers",
+      "draft": false,
+      "fieldData": {
+        "vE5dzHwR_": {
+          "type": "string",
+          "value": "Why the Used Luxury Car Market Is Booming in 2024 (And What It Means for Buyers"
+        },
+        "OxK7M6yCN": {
+          "type": "boolean",
+          "value": false
+        },
+        "Kbtb6KX_T": {
+          "type": "string",
+          "value": "The pre-owned luxury car market is stronger than ever. We explain why savvy buyers are choosing certified pre-owned over new\u2014and how to navigate the market."
+        },
+        "ems8fj_dg": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/upyB8falRJLVBvHuCJ5Nk0Nfo.webp"
+        },
+        "zvFxw4BYS": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">If you've been shopping for a luxury vehicle recently, you've likely noticed something surprising: the pre-owned market is absolutely thriving. High-end SUVs, performance sports cars, and grand tourers that are just 1-2 years old are selling faster than ever\u2014often within days of hitting the market.</p><p dir=\"auto\">This isn't a temporary trend. The used luxury car market has fundamentally shifted, and smart buyers are taking advantage. Here's what's happening and what it means for your next purchase.</p><h5 dir=\"auto\"><br></h5><h5 dir=\"auto\"><strong>The Perfect Storm: Why Pre-Owned Luxury Is Booming</strong></h5><p dir=\"auto\">Several factors have converged to create unprecedented demand for pre-owned premium vehicles:</p><p dir=\"auto\"><strong>1. New car delivery delays remain significant.</strong> Even in 2024, factory build slots for popular luxury models can stretch 6-12 months. Want a new Range Rover Sport? You might be waiting until next year. But a 2023 model with 3,000 miles? Available now.</p><p dir=\"auto\"><strong>2. First-year depreciation creates incredible value.</strong> Luxury vehicles lose 20-30% of their value in the first year, regardless of mileage. A \u00a3150,000 Porsche 911 GT3 RS with 2,500 miles might now be \u00a3120,000\u2014a \u00a330,000 saving for a car that's essentially new.</p><p dir=\"auto\"><strong>3. Manufacturer warranties transfer.</strong> Modern warranty programs are comprehensive and transferable. Buy a 2023 model in 2024, and you'll likely still have 2+ years of factory warranty remaining. You get peace of mind without the new-car premium.</p><p dir=\"auto\"><strong>4. Supply remains constrained.</strong> Production hasn't fully recovered to pre-pandemic levels, meaning used inventory is tighter than historical norms. Low supply + high demand = strong pricing (and less negotiating room).</p><h5 dir=\"auto\"><br></h5><h5 dir=\"auto\"><strong>The Financial Case for Pre-Owned</strong></h5><p dir=\"auto\">Let's examine a real example: the Mercedes-AMG G63.</p><p dir=\"auto\"><strong>New 2024 model:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>List price: \u00a3179,000</p></li><li data-preset-tag=\"p\"><p>Typical dealer discount: Minimal (high demand)</p></li><li data-preset-tag=\"p\"><p>Delivery: 4-6 months</p></li><li data-preset-tag=\"p\"><p>First-year depreciation: ~\u00a335,000-\u00a345,000</p></li></ul><p dir=\"auto\"><strong>2023 model with 800 miles:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Market price: \u00a3165,000-\u00a3170,000</p></li><li data-preset-tag=\"p\"><p>Immediate availability: Yes</p></li><li data-preset-tag=\"p\"><p>Remaining warranty: 2+ years</p></li><li data-preset-tag=\"p\"><p><strong>Saving: \u00a39,000-\u00a314,000</strong></p></li></ul><p dir=\"auto\">For that \u00a310,000+ saving, you get:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Immediate delivery (no waiting)</p></li><li data-preset-tag=\"p\"><p>Same technology and features</p></li><li data-preset-tag=\"p\"><p>Full warranty coverage</p></li><li data-preset-tag=\"p\"><p>A car that's already absorbed the steepest depreciation</p></li></ul><p dir=\"auto\">The math is compelling. You're getting 98% of the car for 92% of the price.</p><h5 dir=\"auto\"><br></h5><h5 dir=\"auto\"><strong>What to Look For in a Pre-Owned Luxury Vehicle</strong></h5><p dir=\"auto\">Not all used luxury cars are created equal. Here's what separates a smart purchase from a potential headache:</p><p dir=\"auto\"><strong>Service history is everything.</strong> Full main dealer service history is non-negotiable. Every service should be documented, every recall addressed, every software update completed. We reject vehicles with incomplete histories\u2014and you should too.</p><p dir=\"auto\"><strong>Low mileage matters (but not as much as you think).</strong> A well-maintained 8,000-mile car is often better than a neglected 2,000-mile car. We've seen garage queens with flat spots on tires, dead batteries, and perished seals from lack of use. Cars need to be driven.</p><p dir=\"auto\"><strong>Specification is critical.</strong> Premium options hold value. Carbon ceramic brakes, upgraded sound systems, advanced driver assistance\u2014these features cost thousands when new but don't proportionally increase the used price. A well-specified car is often a better buy than a base model, even if the initial price is higher.</p><p dir=\"auto\"><strong>Single ownership is ideal.</strong> A car with one owner and full history is always preferable to a car that's changed hands three times in two years. The ownership pattern tells a story\u2014make sure it's a good one.</p><h5 dir=\"auto\"><br></h5><h5 dir=\"auto\"><strong>The Hidden Benefits of Certified Pre-Owned</strong></h5><p dir=\"auto\">When you buy from a reputable luxury dealer, you're not just getting a car\u2014you're getting peace of mind:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Multi-point inspections</strong> (our cars undergo 150+ point checks)</p></li><li data-preset-tag=\"p\"><p><strong>Warranty coverage</strong> (manufacturer warranties transfer, extended warranties available)</p></li><li data-preset-tag=\"p\"><p><strong>HPI clear certification</strong> (no outstanding finance, not stolen, not written off)</p></li><li data-preset-tag=\"p\"><p><strong>Professional preparation</strong> (full detail, any necessary repairs completed)</p></li><li data-preset-tag=\"p\"><p><strong>After-sales support</strong> (we're here long after the sale)</p></li></ul><p dir=\"auto\">This is the difference between buying from a dealer and buying privately on classified sites. You're paying for expertise, accountability, and protection.</p><h5 dir=\"auto\"><strong>Market Predictions for 2024-2025</strong></h5><p dir=\"auto\">Based on current trends, here's what we're seeing:</p><p dir=\"auto\"><strong>SUVs remain dominant.</strong> The Range Rover Sport, Lamborghini Urus, and Mercedes G-Class continue to command strong prices. Practicality + performance = enduring demand.</p><p dir=\"auto\"><strong>Electric and hybrid models are gaining ground.</strong> As charging infrastructure improves and range anxiety diminishes, pre-owned electric luxury vehicles (Porsche Taycan, Mercedes EQS, BMW iX) are becoming viable for more buyers.</p><p dir=\"auto\"><strong>Limited-edition models are appreciating.</strong> The Porsche GT cars (GT3, GT3 RS, GT4) are no longer depreciating\u2014they're appreciating. Same with certain Ferrari and McLaren special editions. These are investments, not just cars.</p><p dir=\"auto\"><strong>Mainstream luxury is stabilizing.</strong> The pandemic pricing volatility has settled. Vehicles like the BMW M4, Audi RS6, and Mercedes-AMG cars are following more predictable depreciation curves again.</p><h5 dir=\"auto\"><strong>How to Navigate the Market</strong></h5><p dir=\"auto\"><strong>For buyers:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Act quickly when you find the right car (good examples sell in days, not weeks)</p></li><li data-preset-tag=\"p\"><p>Verify history meticulously (request full documentation upfront)</p></li><li data-preset-tag=\"p\"><p>Work with dealers who offer transparency (you should see service records, HPI reports, inspection results)</p></li><li data-preset-tag=\"p\"><p>Consider finance options (competitive rates make premium vehicles more accessible)</p></li></ul><p dir=\"auto\"><strong>For sellers:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Maintain comprehensive service records (it dramatically impacts value)</p></li><li data-preset-tag=\"p\"><p>Keep mileage reasonable (under 10,000 miles/year maintains premium pricing)</p></li><li data-preset-tag=\"p\"><p>Document modifications (returning to stock often maximizes value)</p></li><li data-preset-tag=\"p\"><p>Time the market (spring/summer typically sees higher demand)</p></li></ul><h5 dir=\"auto\"><strong>Why We're Bullish on Pre-Owned Luxury</strong></h5><p dir=\"auto\">After 15+ years in this business, we've never been more confident in the value proposition of certified pre-owned luxury vehicles. The combination of immediate availability, strong warranties, and significant savings makes it the smart choice for most buyers.</p><p dir=\"auto\">Yes, there's something special about being the first owner of a brand-new car. But when you can save \u00a315,000-\u00a330,000, get the same warranty, and drive home tomorrow instead of next year? The decision becomes much easier.</p><p dir=\"auto\">The luxury car market has evolved. The stigma of \"used\" is gone\u2014replaced by \"certified pre-owned,\" \"approved,\" and \"select.\" These aren't second-hand cars; they're carefully curated, comprehensively inspected, and fully warrantable premium vehicles.</p><p dir=\"auto\"><strong>Ready to explore what's available?</strong> Our current inventory includes everything from track-focused Porsches to family-friendly Range Rovers, all with full histories and comprehensive warranties. Let's find your perfect car.</p>"
+        }
+      }
+    },
+    {
+      "id": "WSE63DkVa",
+      "slug": "the-new-lamborghini-urus-performante-has-arrived\u2014and-it-s-everything-we-hoped-for",
+      "draft": false,
+      "fieldData": {
+        "vE5dzHwR_": {
+          "type": "string",
+          "value": "The New Lamborghini Urus Performante Has Arrived\u2014And It's Everything We Hoped For"
+        },
+        "OxK7M6yCN": {
+          "type": "boolean",
+          "value": true
+        },
+        "Kbtb6KX_T": {
+          "type": "string",
+          "value": "London's first Lamborghini Urus Performante has landed at our showroom. Discover what makes this super SUV the most extreme performance vehicle on the road."
+        },
+        "ems8fj_dg": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/dEDaBu6jRucTUjCOt5t3puBWQ.webp"
+        },
+        "zvFxw4BYS": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">We've been counting down the days, and it's finally here: the Lamborghini Urus Performante has officially arrived at our London showroom. This isn't just another SUV\u2014it's Lamborghini's most extreme interpretation of the super SUV formula, and after spending time with it, we can confidently say it exceeds every expectation.</p><h5 dir=\"auto\"><strong>What Makes the Performante Different?</strong></h5><p dir=\"auto\">The standard Urus is already a phenomenal machine\u2014663 horsepower, brutal acceleration, and unmistakable Lamborghini presence. But Lamborghini's Squadra Corse racing division wanted more. The Performante is the result of that ambition.</p><p dir=\"auto\"><strong>The numbers tell part of the story:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>666 horsepower from the 4.0L twin-turbo V8 (up from 650)</p></li><li data-preset-tag=\"p\"><p>0-60 mph in 3.3 seconds (0.1s faster)</p></li><li data-preset-tag=\"p\"><p>47kg lighter than the standard Urus</p></li><li data-preset-tag=\"p\"><p>Recalibrated suspension and steering for sharper response</p></li><li data-preset-tag=\"p\"><p>Track-focused Rally mode for loose surfaces</p></li></ul><p dir=\"auto\">But the real magic is in how it drives.</p><h5 dir=\"auto\"><strong>What It's Like Behind the Wheel</strong></h5><p dir=\"auto\">We had the privilege of taking our Nero Noctis (matte black) Performante out for a proper evaluation, and the difference from the standard Urus is immediately apparent.</p><p dir=\"auto\"><strong>The exhaust note.</strong> Lamborghini fitted an Akrapovic titanium exhaust system as standard, and the sound is absolutely intoxicating. On startup, it announces itself with a deep, aggressive rumble. Under full throttle, it screams like a naturally aspirated V10, crackling and popping on the overrun. This is a soundtrack you'll never tire of.</p><p dir=\"auto\"><strong>The handling.</strong> The Performante's carbon fiber components (roof, hood, front bumper) reduce weight in all the right places, lowering the center of gravity. Combined with recalibrated air suspension, adaptive dampers, and rear-wheel steering, the Performante feels impossibly agile for a 2.2-ton SUV. Point it into a corner, and it rotates with precision that rivals far smaller sports cars.</p><p dir=\"auto\"><strong>The speed.</strong> 666 horsepower propels this SUV to 60 mph in 3.3 seconds\u2014faster than most supercars from a decade ago. The 8-speed automatic gearbox delivers rapid-fire shifts, and the all-wheel-drive system puts every ounce of power to the ground without drama. Overtaking performance is simply savage.</p><h5 dir=\"auto\"><strong>The Design Details That Matter</strong></h5><p dir=\"auto\">Lamborghini's designers obsessed over every detail to create visual drama:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Carbon fiber everywhere.</strong> The roof, hood, front splitter, and rear diffuser are all exposed carbon fiber, creating a technical, race-inspired aesthetic.</p></li><li data-preset-tag=\"p\"><p><strong>23\" Taigete wheels.</strong> Lightweight forged alloys wrapped in bespoke Pirelli P Zero Trofeo R tires (optional). These aren't just for show\u2014they're designed for track performance.</p></li><li data-preset-tag=\"p\"><p><strong>Aero package.</strong> A more aggressive front splitter, redesigned rear diffuser, and fixed rear spoiler all contribute to genuine downforce. This isn't styling\u2014it's functional aerodynamics.</p></li><li data-preset-tag=\"p\"><p><strong>Exclusive Performante badging.</strong> Subtle but distinctive callouts that differentiate it from the standard Urus.</p></li></ul><h5 dir=\"auto\"><strong>Inside: Performance Meets Luxury</strong></h5><p dir=\"auto\">Step inside, and you're greeted by Lamborghini's signature cockpit-inspired cabin. Our example features:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Alcantara everything.</strong> The dashboard, steering wheel, headliner, and seats are wrapped in premium Alcantara with contrast stitching\u2014tactile, luxurious, and performance-oriented.</p></li><li data-preset-tag=\"p\"><p><strong>Carbon fiber accents.</strong> Exposed carbon fiber on the center console and door panels ties the interior to the exterior theme.</p></li><li data-preset-tag=\"p\"><p><strong>Sport seats.</strong> Deeply bolstered seats that hold you in place during spirited driving, yet remain comfortable for long journeys.</p></li></ul><p dir=\"auto\">The technology is equally impressive: dual digital displays (12.3\" instrument cluster and 8.4\" infotainment), a premium Bang &amp; Olufsen sound system, and a full suite of driver assistance features. This is a car that's as comfortable cruising through Mayfair as it is attacking the N\u00fcrburgring.</p><h5 dir=\"auto\"><strong>Who Is This Car For?</strong></h5><p dir=\"auto\">The Urus Performante is for the driver who refuses to compromise. You want SUV practicality\u2014five seats, a proper boot, commanding driving position. But you also want supercar performance, Lamborghini drama, and the ability to embarrass sports cars at the traffic lights.</p><p dir=\"auto\">It's for the entrepreneur who needs to drop the kids at school in the morning and attend a track day in the afternoon. It's for the collector who already has the Hurac\u00e1n in the garage and needs something more practical for daily duties. It's for anyone who believes that \"sensible\" doesn't have to mean \"boring.\"</p><h5 dir=\"auto\"><strong>Why You Should See It in Person</strong></h5><p dir=\"auto\">Photos don't do this car justice. The presence is overwhelming in person\u2014the width, the stance, the aggressive lines. The exhaust note needs to be heard, not read about. And the driving experience? You simply have to feel it.</p><p dir=\"auto\">Our Urus Performante is available for viewing and test drives at our London showroom. Whether you're ready to place an order or simply want to experience what Lamborghini's engineers have created, we'd love to show you around.</p><p dir=\"auto\"><strong>Book your private viewing today.</strong> This is the kind of car that sells itself\u2014once you see it, you'll understand why we're so excited.</p>"
+        }
+      }
+    },
+    {
+      "id": "To6gb8y9_",
+      "slug": "leasing-vs-buying-a-luxury-car-which-is-right-for-you-in-2024",
+      "draft": false,
+      "fieldData": {
+        "vE5dzHwR_": {
+          "type": "string",
+          "value": "Leasing vs Buying a Luxury Car: Which Is Right for You in 2024?"
+        },
+        "OxK7M6yCN": {
+          "type": "boolean",
+          "value": true
+        },
+        "Kbtb6KX_T": {
+          "type": "string",
+          "value": "Deciding between leasing or buying your next luxury vehicle? We break down the costs, benefits, and hidden considerations to help you make the smartest financial decision."
+        },
+        "ems8fj_dg": {
+          "type": "image",
+          "value": "https://framerusercontent.com/images/0LOYqzmlhPVu0sdOoHiM5Zq6ItE.webp"
+        },
+        "zvFxw4BYS": {
+          "type": "formattedText",
+          "value": "<p dir=\"auto\">When you're ready to drive home a premium vehicle, one of the biggest decisions you'll face isn't which car to choose\u2014it's how to pay for it. Should you lease or buy? The answer depends on your lifestyle, financial goals, and how you plan to use the vehicle.</p><p dir=\"auto\">We've helped thousands of clients navigate this decision, and we've learned that there's no one-size-fits-all answer. Here's everything you need to know to make the right choice.</p><p dir=\"auto\"><strong>Understanding the Basics</strong></p><p dir=\"auto\"><strong>Buying</strong> means you own the vehicle outright (or once your finance is paid off). You're building equity, and you can modify, sell, or keep the car as long as you want.</p><p dir=\"auto\"><strong>Leasing</strong> is essentially a long-term rental. You pay for the depreciation during your lease term (typically 2-4 years), then return the vehicle. Lower monthly payments, but no ownership.</p><h5 dir=\"auto\"><strong>When Buying Makes Sense</strong></h5><p dir=\"auto\"><strong>You should consider buying if:</strong></p><p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>You drive more than 10,000-15,000 miles per year.</strong> Lease agreements typically cap annual mileage at 10,000-12,000 miles, with hefty penalties for going over (often 15-30p per mile). If you're a high-mileage driver, buying eliminates this concern.</p><p><br></p></li><li data-preset-tag=\"p\"><p><strong>You want to keep the car long-term.</strong> Love the idea of driving your Porsche GT3 for the next decade? Buying allows you to keep the vehicle indefinitely and potentially enjoy its appreciation (especially with limited-edition models).</p><p><br></p></li><li data-preset-tag=\"p\"><p><strong>You like to customize.</strong> Want to add an aftermarket exhaust, wrap the car, or upgrade the wheels? When you own the car, you can modify it however you like. Leasing contracts strictly prohibit modifications.</p></li></ul><p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>You value building equity.</strong> Every payment on a financed purchase builds ownership. Once the loan is paid off, you own a valuable asset you can sell or trade.</p></li></ul><h5 dir=\"auto\"><strong>When Leasing Makes Sense</strong></h5><p dir=\"auto\"><strong>Leasing might be better if:</strong></p><p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>You love driving the latest models.</strong> Lease terms typically run 2-4 years, which means you can upgrade to the newest technology, safety features, and design every few years without the hassle of selling.</p></li></ul><p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>You want lower monthly payments.</strong> Because you're only paying for the vehicle's depreciation (not its full value), lease payments are typically 30-50% lower than finance payments for the same car.</p><p><br></p></li><li data-preset-tag=\"p\"><p><strong>You prioritize warranty coverage.</strong> Most leases run within the manufacturer's warranty period, meaning you're covered for major repairs. No unexpected \u00a35,000 service bills.</p><p><br></p></li><li data-preset-tag=\"p\"><p><strong>You use the car for business.</strong> Lease payments are often 100% tax-deductible for business use (consult your accountant), making leasing financially attractive for company directors and self-employed professionals.</p></li></ul><p dir=\"auto\"><br></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>You prefer predictable costs.</strong> With leasing, you know exactly what you'll pay each month, with no concerns about depreciation or resale value.</p></li></ul><h5 dir=\"auto\"><strong>The Hidden Costs to Consider</strong></h5><p dir=\"auto\"><strong>When buying:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Depreciation hits hardest in years 1-3 (luxury cars can lose 40-50% of their value)</p></li><li data-preset-tag=\"p\"><p>Higher insurance premiums (comprehensive coverage required for financed vehicles)</p></li><li data-preset-tag=\"p\"><p>Maintenance costs after warranty expires</p></li><li data-preset-tag=\"p\"><p>Selling hassle when you're ready to upgrade</p></li></ul><p dir=\"auto\"><strong>When leasing:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Excess mileage charges (can add thousands to your final bill)</p></li><li data-preset-tag=\"p\"><p>Wear-and-tear fees (scratches, dents, interior damage)</p></li><li data-preset-tag=\"p\"><p>Disposition fees when returning the vehicle (typically \u00a3300-500)</p></li><li data-preset-tag=\"p\"><p>No equity building\u2014payments don't contribute to ownership</p></li></ul><h5 dir=\"auto\"><strong>Real Example: Range Rover Sport P530</strong></h5><p dir=\"auto\">Let's compare the numbers on a \u00a3145,000 Range Rover Sport:</p><p dir=\"auto\"><strong>Buying (PCP Finance, 3-year term):</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Deposit: \u00a329,000</p></li><li data-preset-tag=\"p\"><p>Monthly payment: \u00a31,850</p></li><li data-preset-tag=\"p\"><p>Final balloon payment: \u00a365,000 (optional)</p></li><li data-preset-tag=\"p\"><p><strong>Total cost if kept:</strong> \u00a3145,000 (you own the car)</p></li><li data-preset-tag=\"p\"><p><strong>Total cost if returned:</strong> \u00a395,500 (\u00a329k + \u00a366,600 payments)</p></li></ul><p dir=\"auto\"><strong>Leasing (3-year term, 10,000 miles/year):</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Initial payment: \u00a38,700 (6 months upfront)</p></li><li data-preset-tag=\"p\"><p>Monthly payment: \u00a31,450</p></li><li data-preset-tag=\"p\"><p><strong>Total cost:</strong> \u00a360,900 (you return the car)</p></li></ul><p dir=\"auto\"><strong>The difference?</strong> You'll pay \u00a334,600 less to lease, but you'll walk away with nothing. If you buy and sell after 3 years, the car might be worth \u00a375,000-\u00a385,000, meaning your actual cost is only \u00a360,000-\u00a370,000\u2014similar to leasing, but you've had the flexibility to sell whenever you want.</p><h5 dir=\"auto\"><strong>Our Recommendation</strong></h5><p dir=\"auto\"><strong>Lease if:</strong> You want the newest models, drive moderate mileage, and value predictable costs.</p><p dir=\"auto\"><strong>Buy if:</strong> You're a high-mileage driver, want to keep the car long-term, or prefer building equity.</p><p dir=\"auto\">Still unsure? Our finance team can run the numbers on your specific situation and show you exactly what each option costs. We work with the UK's leading lenders and lease providers to secure the most competitive rates\u2014whether you're buying or leasing.</p><p dir=\"auto\"><strong>Ready to explore your options?</strong> Browse our current inventory and speak with our finance specialists. We'll walk you through every scenario and help you make the smartest decision for your lifestyle.</p>"
+        }
+      }
+    }
+  ],
+  "legal": [
+    {
+      "id": "CKwOulsF2",
+      "slug": "read-this",
+      "draft": true,
+      "fieldData": {
+        "L_A48SMLq": {
+          "type": "string",
+          "value": "READ THIS ( Don't Publish )"
+        },
+        "HLi4cRCgY": {
+          "type": "date",
+          "value": "2026-05-04T00:00:00.000Z"
+        },
+        "WM5Ns79EH": {
+          "type": "formattedText",
+          "value": "<h3 dir=\"auto\">\ud83d\udccb IMPLEMENTATION NOTES</h3><h4 dir=\"auto\"><strong>Placeholders to Replace:</strong></h4><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><code>[DEALERSHIP NAME]</code> \u2192 Your dealership name</p></li><li data-preset-tag=\"p\"><p><code>[WEBSITE URL]</code> \u2192 Your website URL</p></li><li data-preset-tag=\"p\"><p><code>[EMAIL ADDRESS]</code> / <code>[PRIVACY EMAIL]</code> / <code>[CONTACT EMAIL]</code> \u2192 Your email addresses</p></li><li data-preset-tag=\"p\"><p><code>[PHONE NUMBER]</code> \u2192 Your phone number</p></li><li data-preset-tag=\"p\"><p><code>[PHYSICAL ADDRESS]</code> \u2192 Your business address</p></li><li data-preset-tag=\"p\"><p><code>[DPO EMAIL]</code> \u2192 Data Protection Officer email (if applicable)</p><h4><br></h4></li></ul><h4 dir=\"auto\"><strong>Legal Compliance:</strong></h4><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>\u2705 GDPR compliant (UK/EU)</p></li><li data-preset-tag=\"p\"><p>\u2705 Consumer Rights Act 2015</p></li><li data-preset-tag=\"p\"><p>\u2705 Consumer Contracts Regulations 2013</p></li><li data-preset-tag=\"p\"><p>\u2705 Data Protection Act 2018</p></li><li data-preset-tag=\"p\"><p>\u2705 Distance Selling Regulations</p></li></ul><p dir=\"auto\"><strong>Recommendation:</strong> Have these reviewed by a UK solicitor specializing in automotive retail law to ensure full compliance for your specific business.</p>"
+        }
+      }
+    },
+    {
+      "id": "bSvKqoQjq",
+      "slug": "cookie-policy",
+      "draft": false,
+      "fieldData": {
+        "L_A48SMLq": {
+          "type": "string",
+          "value": "Cookie Policy"
+        },
+        "HLi4cRCgY": {
+          "type": "date",
+          "value": "2026-05-04T00:00:00.000Z"
+        },
+        "WM5Ns79EH": {
+          "type": "formattedText",
+          "value": "<h4 dir=\"auto\"><strong>What Are Cookies?</strong></h4><p dir=\"auto\">Cookies are small text files stored on your device (computer, tablet, smartphone) when you visit a website. They help websites remember your preferences, improve functionality, and provide analytics.</p><h4 dir=\"auto\"><strong>How We Use Cookies</strong></h4><p dir=\"auto\">We use cookies to:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Remember your preferences (e.g., language, vehicle search filters)</p></li><li data-preset-tag=\"p\"><p>Analyze website traffic and usage patterns</p></li><li data-preset-tag=\"p\"><p>Improve website performance and user experience</p></li><li data-preset-tag=\"p\"><p>Deliver personalized content and advertisements</p></li><li data-preset-tag=\"p\"><p>Enable essential website features</p></li></ul><h4 dir=\"auto\"><strong>Types of Cookies We Use</strong></h4><p dir=\"auto\"><strong>1. Strictly Necessary Cookies</strong></p><p dir=\"auto\">These cookies are essential for the website to function and cannot be disabled.</p><p dir=\"auto\"><strong>Purpose:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Enable core functionality (navigation, forms)</p></li><li data-preset-tag=\"p\"><p>Secure access to certain areas</p></li><li data-preset-tag=\"p\"><p>Remember items in your enquiry basket</p></li></ul><p dir=\"auto\"><strong>Examples:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Session cookies</p></li><li data-preset-tag=\"p\"><p>Security cookies</p></li></ul><p dir=\"auto\"><strong>Legal Basis:</strong> Legitimate interest (essential for service provision)</p><p dir=\"auto\"><strong>2. Performance Cookies</strong></p><p dir=\"auto\">These cookies collect anonymous information about how you use our website.</p><p dir=\"auto\"><strong>Purpose:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Analyze visitor traffic and behavior</p></li><li data-preset-tag=\"p\"><p>Identify popular pages and content</p></li><li data-preset-tag=\"p\"><p>Detect and fix errors</p></li><li data-preset-tag=\"p\"><p>Improve website performance</p></li></ul><p dir=\"auto\"><strong>Examples:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Google Analytics</p></li><li data-preset-tag=\"p\"><p>Hotjar</p></li></ul><p dir=\"auto\"><strong>Legal Basis:</strong> Consent</p><p dir=\"auto\"><strong>3. Functionality Cookies</strong></p><p dir=\"auto\">These cookies remember your choices and preferences.</p><p dir=\"auto\"><strong>Purpose:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Remember your language preference</p></li><li data-preset-tag=\"p\"><p>Save vehicle search filters</p></li><li data-preset-tag=\"p\"><p>Remember login details (if you create an account)</p></li><li data-preset-tag=\"p\"><p>Personalize content based on your interests</p></li></ul><p dir=\"auto\"><strong>Examples:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Preference cookies</p></li><li data-preset-tag=\"p\"><p>Remember-me cookies</p></li></ul><p dir=\"auto\"><strong>Legal Basis:</strong> Consent</p><p dir=\"auto\"><strong>4. Targeting/Advertising Cookies</strong></p><p dir=\"auto\">These cookies track your browsing to deliver relevant advertisements.</p><p dir=\"auto\"><strong>Purpose:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Show you ads for vehicles you've viewed</p></li><li data-preset-tag=\"p\"><p>Measure ad campaign effectiveness</p></li><li data-preset-tag=\"p\"><p>Limit how many times you see an ad</p></li><li data-preset-tag=\"p\"><p>Personalize marketing communications</p></li></ul><p dir=\"auto\"><strong>Examples:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Facebook Pixel</p></li><li data-preset-tag=\"p\"><p>Google Ads</p></li><li data-preset-tag=\"p\"><p>LinkedIn Insight Tag</p></li></ul><p dir=\"auto\"><strong>Legal Basis:</strong> Consent</p><h4 dir=\"auto\"><strong>Third-Party Cookies</strong></h4><p dir=\"auto\">We use services from third-party providers that may set cookies:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Google Analytics:</strong> Website traffic analysis</p></li><li data-preset-tag=\"p\"><p><strong>Google Ads / Google Tag Manager:</strong> Advertising and remarketing</p></li><li data-preset-tag=\"p\"><p><strong>Facebook Pixel:</strong> Social media advertising</p></li><li data-preset-tag=\"p\"><p><strong>Hotjar:</strong> User behavior analysis and heatmaps</p></li><li data-preset-tag=\"p\"><p><strong>YouTube:</strong> Embedded videos</p></li><li data-preset-tag=\"p\"><p><strong>Mailchimp / Email Platforms:</strong> Email campaign tracking</p></li></ul><p dir=\"auto\">These third parties have their own privacy policies and cookie policies.</p><h4 dir=\"auto\"><strong>Cookie Duration</strong></h4><p dir=\"auto\">Cookies can be:</p><p dir=\"auto\"><strong>Session Cookies:</strong> Deleted when you close your browser</p><p dir=\"auto\"><strong>Persistent Cookies:</strong> Remain on your device for a set period (typically 30 days to 2 years)</p><h4 dir=\"auto\"><strong>Managing Your Cookie Preferences</strong></h4><p dir=\"auto\"><strong>Cookie Consent Banner</strong></p><p dir=\"auto\">When you first visit our website, you'll see a cookie consent banner. You can:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Accept all cookies</p></li><li data-preset-tag=\"p\"><p>Reject non-essential cookies</p></li><li data-preset-tag=\"p\"><p>Customize your preferences</p></li></ul><p dir=\"auto\"><strong>Browser Settings</strong></p><p dir=\"auto\">You can control cookies through your browser settings:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Chrome:</strong> Settings &gt; Privacy and Security &gt; Cookies</p></li><li data-preset-tag=\"p\"><p><strong>Firefox:</strong> Settings &gt; Privacy &amp; Security &gt; Cookies</p></li><li data-preset-tag=\"p\"><p><strong>Safari:</strong> Preferences &gt; Privacy &gt; Cookies</p></li><li data-preset-tag=\"p\"><p><strong>Edge:</strong> Settings &gt; Cookies and Site Permissions</p></li></ul><p dir=\"auto\"><strong>Disabling cookies may affect website functionality.</strong></p><p dir=\"auto\"><strong>Opt-Out Tools</strong></p><p dir=\"auto\">You can opt out of targeted advertising:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Google Ads: <a href=\"https://adssettings.google.com/\">https://adssettings.google.com</a></p></li><li data-preset-tag=\"p\"><p>Facebook: <a href=\"https://www.facebook.com/settings?tab=ads\">https://www.facebook.com/settings?tab=ads</a></p></li><li data-preset-tag=\"p\"><p>Your Online Choices: <a href=\"https://www.youronlinechoices.com/\">https://www.youronlinechoices.com</a></p></li></ul><h4 dir=\"auto\"><strong>Do Not Track (DNT)</strong></h4><p dir=\"auto\">Some browsers offer a \"Do Not Track\" (DNT) signal. We currently do not respond to DNT signals, but you can control cookies through the methods above.</p><h4 dir=\"auto\"><strong>Changes to This Cookie Policy</strong></h4><p dir=\"auto\">We may update this Cookie Policy to reflect changes in technology or regulations. Check this page periodically for updates.</p><h4 dir=\"auto\"><strong>Contact Us</strong></h4><p dir=\"auto\">Questions about cookies?</p><p dir=\"auto\"><strong>Email:</strong> [CONTACT EMAIL]<br><strong>Phone:</strong> [PHONE NUMBER]</p>"
+        }
+      }
+    },
+    {
+      "id": "Hm56OQZlS",
+      "slug": "terms-conditions",
+      "draft": false,
+      "fieldData": {
+        "L_A48SMLq": {
+          "type": "string",
+          "value": "Terms & Conditions"
+        },
+        "HLi4cRCgY": {
+          "type": "date",
+          "value": "2026-05-01T00:00:00.000Z"
+        },
+        "WM5Ns79EH": {
+          "type": "formattedText",
+          "value": "<h4 dir=\"auto\"><strong>1. Introduction</strong></h4><p dir=\"auto\">These Terms and Conditions (\"Terms\") govern your use of the [DEALERSHIP NAME] website (\"Website\") and the purchase of vehicles and services from [DEALERSHIP NAME] (\"Company,\" \"we,\" \"us,\" or \"our\").</p><p dir=\"auto\">By accessing or using our Website, you agree to be bound by these Terms. If you do not agree, please do not use our Website or services.</p><h4 dir=\"auto\"><strong>2. Definitions</strong></h4><p dir=\"auto\"><strong>\"Customer,\" \"you,\" \"your\"</strong> refers to the individual or entity using our Website or purchasing our products/services.</p><p dir=\"auto\"><strong>\"Vehicle\"</strong> refers to any car, motorcycle, or other motor vehicle offered for sale by the Company.</p><p dir=\"auto\"><strong>\"Services\"</strong> includes vehicle sales, financing arrangements, trade-in valuations, test drives, vehicle delivery, and related services.</p><h4 dir=\"auto\"><strong>3. Use of Website</strong></h4><p dir=\"auto\"><strong>Eligibility</strong></p><p dir=\"auto\">You must be at least 18 years old and legally capable of entering into binding contracts to use our Website and services. By using our Website, you represent that you meet these requirements.</p><p dir=\"auto\"><strong>Permitted Use</strong></p><p dir=\"auto\">You may use our Website for lawful purposes only, including:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Browsing vehicle inventory</p></li><li data-preset-tag=\"p\"><p>Requesting information about vehicles</p></li><li data-preset-tag=\"p\"><p>Booking test drives or viewings</p></li><li data-preset-tag=\"p\"><p>Applying for financing</p></li><li data-preset-tag=\"p\"><p>Contacting our team</p></li></ul><p dir=\"auto\"><strong>Prohibited Use</strong></p><p dir=\"auto\">You may not:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Use the Website for any illegal purpose</p></li><li data-preset-tag=\"p\"><p>Attempt to gain unauthorized access to our systems</p></li><li data-preset-tag=\"p\"><p>Interfere with the proper functioning of the Website</p></li><li data-preset-tag=\"p\"><p>Transmit viruses, malware, or harmful code</p></li><li data-preset-tag=\"p\"><p>Scrape, harvest, or copy content without permission</p></li><li data-preset-tag=\"p\"><p>Impersonate another person or entity</p></li><li data-preset-tag=\"p\"><p>Submit false or misleading information</p></li></ul><h4 dir=\"auto\"><strong>4. Vehicle Information and Listings</strong></h4><p dir=\"auto\"><strong>Accuracy</strong></p><p dir=\"auto\">We strive to provide accurate information about our vehicles, including specifications, condition, mileage, and pricing. However:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Information is subject to change without notice</p></li><li data-preset-tag=\"p\"><p>We do not guarantee absolute accuracy of all details</p></li><li data-preset-tag=\"p\"><p>Errors or omissions may occur</p></li><li data-preset-tag=\"p\"><p>Actual vehicle condition may vary from photographs</p></li></ul><p dir=\"auto\"><strong>Verification</strong></p><p dir=\"auto\">We encourage you to:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Inspect vehicles in person before purchase</p></li><li data-preset-tag=\"p\"><p>Request a test drive</p></li><li data-preset-tag=\"p\"><p>Review all documentation (service history, HPI report, V5C)</p></li><li data-preset-tag=\"p\"><p>Ask questions about any aspect of the vehicle</p></li></ul><p dir=\"auto\"><strong>Pricing</strong></p><p dir=\"auto\">All prices displayed are in British Pounds (\u00a3) and include VAT unless otherwise stated. Prices do not include:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Registration and licensing fees</p></li><li data-preset-tag=\"p\"><p>Delivery charges (unless specified)</p></li><li data-preset-tag=\"p\"><p>Optional extras or modifications</p></li><li data-preset-tag=\"p\"><p>Finance arrangement fees</p></li><li data-preset-tag=\"p\"><p>Extended warranty costs</p></li></ul><p dir=\"auto\">We reserve the right to change prices at any time without notice. The price applicable is the price displayed at the time of purchase confirmation.</p><h4 dir=\"auto\"><strong>5. Vehicle Sales Process</strong></h4><p dir=\"auto\"><strong>Enquiries and Reservations</strong></p><p dir=\"auto\">Submitting an enquiry or booking a test drive does not constitute a binding contract. A sale is only confirmed when:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>You have signed a purchase agreement</p></li><li data-preset-tag=\"p\"><p>We have accepted your offer</p></li><li data-preset-tag=\"p\"><p>Payment (deposit or full payment) has been received</p></li></ul><p dir=\"auto\"><strong>Deposits</strong></p><p dir=\"auto\">A deposit may be required to reserve a vehicle. Deposit terms:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Deposits are typically non-refundable unless otherwise agreed in writing</p></li><li data-preset-tag=\"p\"><p>Deposits are deducted from the final purchase price</p></li><li data-preset-tag=\"p\"><p>If we are unable to complete the sale (e.g., vehicle damaged before delivery), your deposit will be refunded in full</p></li></ul><p dir=\"auto\"><strong>Finance Applications</strong></p><p dir=\"auto\">If you apply for financing:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Applications are subject to lender approval</p></li><li data-preset-tag=\"p\"><p>We act as a credit broker, not a lender</p></li><li data-preset-tag=\"p\"><p>Finance is provided by third-party finance companies</p></li><li data-preset-tag=\"p\"><p>You are responsible for meeting credit terms</p></li><li data-preset-tag=\"p\"><p>We may receive commission from finance providers</p></li></ul><p dir=\"auto\"><strong>Trade-Ins</strong></p><p dir=\"auto\">If you trade in a vehicle:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Valuations are estimates and subject to inspection</p></li><li data-preset-tag=\"p\"><p>Final trade-in value may differ after inspection</p></li><li data-preset-tag=\"p\"><p>You must have clear title to the trade-in vehicle</p></li><li data-preset-tag=\"p\"><p>Outstanding finance must be disclosed and settled</p></li><li data-preset-tag=\"p\"><p>Trade-in values are valid for 7 days unless otherwise stated</p></li></ul><h4 dir=\"auto\"><strong>6. Vehicle Delivery and Collection</strong></h4><p dir=\"auto\"><strong>Delivery</strong></p><p dir=\"auto\">For vehicles delivered to you:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Delivery dates are estimates, not guarantees</p></li><li data-preset-tag=\"p\"><p>We are not liable for delays beyond our reasonable control</p></li><li data-preset-tag=\"p\"><p>Delivery charges apply (unless stated otherwise)</p></li><li data-preset-tag=\"p\"><p>You must inspect the vehicle upon delivery</p></li></ul><p dir=\"auto\"><strong>Collection</strong></p><p dir=\"auto\">For vehicles collected from our premises:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Collection must occur within 14 days of purchase confirmation (unless otherwise agreed)</p></li><li data-preset-tag=\"p\"><p>You are responsible for insurance from the point of collection</p></li><li data-preset-tag=\"p\"><p>All necessary documents (V5C, service history, keys) will be provided</p></li></ul><p dir=\"auto\"><strong>Risk and Title</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Risk passes to you upon delivery or collection</p></li><li data-preset-tag=\"p\"><p>Title passes to you upon full payment (unless financed)</p></li><li data-preset-tag=\"p\"><p>For financed vehicles, title remains with the finance provider until paid in full</p></li></ul><h4 dir=\"auto\"><strong>7. Vehicle Condition and Warranties</strong></h4><p dir=\"auto\"><strong>Used Vehicles</strong></p><p dir=\"auto\">All used vehicles are sold with:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>A description of their condition (as seen/inspected)</p></li><li data-preset-tag=\"p\"><p>Accurate mileage recording (to the best of our knowledge)</p></li><li data-preset-tag=\"p\"><p>HPI clear certification (unless disclosed otherwise)</p></li><li data-preset-tag=\"p\"><p>Service history (where available)</p></li></ul><p dir=\"auto\"><strong>Warranty</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>New vehicles come with manufacturer warranties (terms apply)</p></li><li data-preset-tag=\"p\"><p>Used vehicles may include remaining manufacturer warranty</p></li><li data-preset-tag=\"p\"><p>Extended warranties are available at additional cost</p></li><li data-preset-tag=\"p\"><p>Warranty terms are provided separately and form part of the sale</p></li></ul><p dir=\"auto\"><strong>Consumer Rights</strong></p><p dir=\"auto\">Your statutory rights under the Consumer Rights Act 2015 are not affected by these Terms. Vehicles must be:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>As described</p></li><li data-preset-tag=\"p\"><p>Of satisfactory quality</p></li><li data-preset-tag=\"p\"><p>Fit for purpose</p></li></ul><h4 dir=\"auto\"><strong>8. Test Drives</strong></h4><p dir=\"auto\"><strong>Requirements</strong></p><p dir=\"auto\">To participate in a test drive, you must:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Be at least 21 years old (or as specified by our insurance)</p></li><li data-preset-tag=\"p\"><p>Hold a full, valid UK driving license</p></li><li data-preset-tag=\"p\"><p>Provide proof of identity</p></li><li data-preset-tag=\"p\"><p>Have valid insurance (or use our insurance with applicable excess)</p></li></ul><p dir=\"auto\"><strong>Conditions</strong></p><p dir=\"auto\">During a test drive:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>You are responsible for the vehicle</p></li><li data-preset-tag=\"p\"><p>You must comply with all traffic laws</p></li><li data-preset-tag=\"p\"><p>You are liable for any damage caused by negligence</p></li><li data-preset-tag=\"p\"><p>We reserve the right to terminate the test drive at any time</p></li></ul><p dir=\"auto\"><strong>Insurance</strong></p><p dir=\"auto\">Test drives are covered by our insurance, subject to an excess (typically \u00a31,000-\u00a35,000 depending on vehicle value). You may be required to pay this excess for any damage.</p><h4 dir=\"auto\"><strong>9. Payment Terms</strong></h4><p dir=\"auto\"><strong>Accepted Payment Methods</strong></p><p dir=\"auto\">We accept:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Bank transfer (BACS/CHAPS)</p></li><li data-preset-tag=\"p\"><p>Debit card (subject to limits)</p></li><li data-preset-tag=\"p\"><p>Credit card (subject to fees and limits)</p></li><li data-preset-tag=\"p\"><p>Finance arrangements (subject to approval)</p></li><li data-preset-tag=\"p\"><p>Cash (up to legal limits, typically \u00a310,000)</p></li></ul><p dir=\"auto\"><strong>Payment Security</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>All payments are processed securely</p></li><li data-preset-tag=\"p\"><p>We do not store full credit card details</p></li><li data-preset-tag=\"p\"><p>Payment must clear before vehicle release</p></li></ul><p dir=\"auto\"><strong>Late Payment</strong></p><p dir=\"auto\">For financed vehicles or installment arrangements:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Late payment may incur fees</p></li><li data-preset-tag=\"p\"><p>We reserve the right to repossess the vehicle for non-payment</p></li><li data-preset-tag=\"p\"><p>Your credit rating may be affected</p></li></ul><h4 dir=\"auto\"><strong>10. Cancellation and Returns</strong></h4><p dir=\"auto\"><strong>Distance Sales (Online Purchases)</strong></p><p dir=\"auto\">Under the Consumer Contracts Regulations 2013, if you purchase a vehicle without physically viewing it first (distance sale), you have:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>14 days to cancel from the date of delivery</p></li><li data-preset-tag=\"p\"><p>Right to a full refund (minus reasonable costs)</p></li><li data-preset-tag=\"p\"><p>Responsibility for return costs</p></li></ul><p dir=\"auto\"><strong>In-Person Purchases</strong></p><p dir=\"auto\">For vehicles inspected and purchased in person, there is no statutory right to cancel. However, your Consumer Rights Act protections still apply if the vehicle is faulty or not as described.</p><p dir=\"auto\"><strong>Exclusions</strong></p><p dir=\"auto\">Custom orders or bespoke modifications may not be eligible for cancellation.</p><h4 dir=\"auto\"><strong>11. Limitation of Liability</strong></h4><p dir=\"auto\"><strong>To the Extent Permitted by Law:</strong></p><p dir=\"auto\">We are not liable for:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Indirect, consequential, or incidental damages</p></li><li data-preset-tag=\"p\"><p>Loss of profits, revenue, or business opportunities</p></li><li data-preset-tag=\"p\"><p>Damage caused by your misuse of the vehicle</p></li><li data-preset-tag=\"p\"><p>Events beyond our reasonable control (force majeure)</p></li></ul><p dir=\"auto\"><strong>Our Total Liability:</strong></p><p dir=\"auto\">Our total liability to you (whether in contract, tort, or otherwise) shall not exceed the purchase price of the vehicle.</p><p dir=\"auto\"><strong>Nothing in These Terms:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Excludes or limits our liability for death or personal injury caused by negligence</p></li><li data-preset-tag=\"p\"><p>Excludes or limits liability for fraud or fraudulent misrepresentation</p></li><li data-preset-tag=\"p\"><p>Excludes any statutory rights you have as a consumer</p></li></ul><h4 dir=\"auto\"><strong>12. Intellectual Property</strong></h4><p dir=\"auto\">All content on our Website (text, images, logos, videos) is owned by or licensed to [DEALERSHIP NAME] and protected by copyright, trademark, and other intellectual property laws.</p><p dir=\"auto\">You may not:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Reproduce, distribute, or modify our content without permission</p></li><li data-preset-tag=\"p\"><p>Use our trademarks or branding without authorization</p></li><li data-preset-tag=\"p\"><p>Claim ownership of any content</p></li></ul><h4 dir=\"auto\"><strong>13. Third-Party Links and Services</strong></h4><p dir=\"auto\">Our Website may contain links to third-party websites (e.g., finance providers, manufacturer sites). We are not responsible for:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>The content or practices of third-party sites</p></li><li data-preset-tag=\"p\"><p>Any transactions you conduct with third parties</p></li><li data-preset-tag=\"p\"><p>The accuracy of third-party information</p></li></ul><h4 dir=\"auto\"><strong>14. Data Protection</strong></h4><p dir=\"auto\">Your personal data is processed in accordance with our Privacy Policy and applicable data protection laws (GDPR, Data Protection Act 2018). Please review our Privacy Policy for details.</p><h4 dir=\"auto\"><strong>15. Complaints and Disputes</strong></h4><p dir=\"auto\"><strong>Complaints Procedure</strong></p><p dir=\"auto\">If you have a complaint:</p><ol dir=\"auto\"><li data-preset-tag=\"p\"><p>Contact us at [COMPLAINTS EMAIL] or [PHONE NUMBER]</p></li><li data-preset-tag=\"p\"><p>We will acknowledge your complaint within 2 business days</p></li><li data-preset-tag=\"p\"><p>We aim to resolve complaints within 14 days</p></li><li data-preset-tag=\"p\"><p>If unresolved, you may escalate to alternative dispute resolution</p></li></ol><p dir=\"auto\"><strong>Alternative Dispute Resolution</strong></p><p dir=\"auto\">If we cannot resolve your complaint, you may use:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>The Motor Ombudsman: <a href=\"https://www.themotorombudsman.org/\">https://www.themotorombudsman.org</a></p></li><li data-preset-tag=\"p\"><p>Citizens Advice Consumer Service: 0808 223 1133</p></li></ul><p dir=\"auto\"><strong>Governing Law</strong></p><p dir=\"auto\">These Terms are governed by the laws of England and Wales. Any disputes will be subject to the exclusive jurisdiction of the courts of England and Wales.</p><h4 dir=\"auto\"><strong>16. Changes to Terms</strong></h4><p dir=\"auto\">We may update these Terms from time to time. Changes will be posted on this page with an updated \"Last Updated\" date. Continued use of our Website after changes constitutes acceptance of the new Terms.</p><h4 dir=\"auto\"><strong>17. Severability</strong></h4><p dir=\"auto\">If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue in full force and effect.</p><h4 dir=\"auto\"><strong>18. Contact Information</strong></h4><p dir=\"auto\">For questions about these Terms, please contact us:</p><p dir=\"auto\"><strong>[DEALERSHIP NAME]</strong><br>Address: [PHYSICAL ADDRESS]<br>Email: [CONTACT EMAIL]<br>Phone: [PHONE NUMBER]<br>Website: [WEBSITE URL]</p>"
+        }
+      }
+    },
+    {
+      "id": "shpQcZUnT",
+      "slug": "privacy-policy",
+      "draft": false,
+      "fieldData": {
+        "L_A48SMLq": {
+          "type": "string",
+          "value": "Privacy Policy"
+        },
+        "HLi4cRCgY": {
+          "type": "date",
+          "value": "2026-06-02T00:00:00.000Z"
+        },
+        "WM5Ns79EH": {
+          "type": "formattedText",
+          "value": "<h4 dir=\"auto\"><strong>Introduction</strong></h4><p dir=\"auto\">[DEALERSHIP NAME] (\"we,\" \"us,\" or \"our\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website [WEBSITE URL] and use our services.</p><p dir=\"auto\">Please read this Privacy Policy carefully. By using our website, you agree to the collection and use of information in accordance with this policy.</p><h4 dir=\"auto\"><strong>Information We Collect</strong></h4><p dir=\"auto\"><strong>Personal Information</strong></p><p dir=\"auto\">We may collect personal information that you voluntarily provide to us when you:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Submit an enquiry form or contact form</p></li><li data-preset-tag=\"p\"><p>Request a test drive or vehicle viewing</p></li><li data-preset-tag=\"p\"><p>Apply for vehicle financing</p></li><li data-preset-tag=\"p\"><p>Subscribe to our newsletter or marketing communications</p></li><li data-preset-tag=\"p\"><p>Create an account on our website</p></li><li data-preset-tag=\"p\"><p>Communicate with us via phone, email, or in person</p></li></ul><p dir=\"auto\">This information may include:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Full name</p></li><li data-preset-tag=\"p\"><p>Email address</p></li><li data-preset-tag=\"p\"><p>Phone number</p></li><li data-preset-tag=\"p\"><p>Postal address</p></li><li data-preset-tag=\"p\"><p>Date of birth</p></li><li data-preset-tag=\"p\"><p>Driver's license information</p></li><li data-preset-tag=\"p\"><p>Financial information (for financing applications)</p></li><li data-preset-tag=\"p\"><p>Vehicle preferences and purchase history</p></li><li data-preset-tag=\"p\"><p>Trade-in vehicle details</p></li></ul><p dir=\"auto\"><strong>Automatically Collected Information</strong></p><p dir=\"auto\">When you visit our website, we automatically collect certain information about your device and browsing activity, including:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>IP address</p></li><li data-preset-tag=\"p\"><p>Browser type and version</p></li><li data-preset-tag=\"p\"><p>Operating system</p></li><li data-preset-tag=\"p\"><p>Referring website</p></li><li data-preset-tag=\"p\"><p>Pages viewed and time spent on pages</p></li><li data-preset-tag=\"p\"><p>Geographic location (city/country level)</p></li><li data-preset-tag=\"p\"><p>Device type (mobile, tablet, desktop)</p></li></ul><p dir=\"auto\"><strong>Cookies and Tracking Technologies</strong></p><p dir=\"auto\">We use cookies, web beacons, and similar tracking technologies to collect information about your website usage. For detailed information, please see our Cookie Policy.</p><h4 dir=\"auto\"><strong>How We Use Your Information</strong></h4><p dir=\"auto\">We use the information we collect for the following purposes:</p><p dir=\"auto\"><strong>To Provide Services:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Process vehicle enquiries and test drive requests</p></li><li data-preset-tag=\"p\"><p>Facilitate vehicle sales and financing applications</p></li><li data-preset-tag=\"p\"><p>Arrange vehicle delivery and collection</p></li><li data-preset-tag=\"p\"><p>Process trade-in valuations</p></li><li data-preset-tag=\"p\"><p>Respond to customer service requests</p></li></ul><p dir=\"auto\"><strong>To Improve Our Business:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Analyze website usage and customer preferences</p></li><li data-preset-tag=\"p\"><p>Improve our website functionality and user experience</p></li><li data-preset-tag=\"p\"><p>Develop new products and services</p></li><li data-preset-tag=\"p\"><p>Conduct market research and analysis</p></li></ul><p dir=\"auto\"><strong>To Communicate With You:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Send appointment confirmations and reminders</p></li><li data-preset-tag=\"p\"><p>Provide updates on your enquiry or purchase</p></li><li data-preset-tag=\"p\"><p>Send marketing communications (with your consent)</p></li><li data-preset-tag=\"p\"><p>Notify you of new vehicle arrivals matching your preferences</p></li><li data-preset-tag=\"p\"><p>Send service reminders and maintenance offers</p></li></ul><p dir=\"auto\"><strong>For Legal and Security Purposes:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Comply with legal obligations and regulations</p></li><li data-preset-tag=\"p\"><p>Prevent fraud and unauthorized transactions</p></li><li data-preset-tag=\"p\"><p>Protect our rights and property</p></li><li data-preset-tag=\"p\"><p>Enforce our terms and conditions</p></li></ul><h4 dir=\"auto\"><strong>Legal Basis for Processing (GDPR)</strong></h4><p dir=\"auto\">Under the General Data Protection Regulation (GDPR), we process your personal data based on:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Consent:</strong> You have given clear consent for us to process your personal data for specific purposes (e.g., marketing communications)</p></li><li data-preset-tag=\"p\"><p><strong>Contract:</strong> Processing is necessary to fulfill a contract with you (e.g., completing a vehicle sale)</p></li><li data-preset-tag=\"p\"><p><strong>Legal Obligation:</strong> Processing is necessary to comply with legal requirements (e.g., financial regulations, tax laws)</p></li><li data-preset-tag=\"p\"><p><strong>Legitimate Interests:</strong> Processing is necessary for our legitimate business interests (e.g., fraud prevention, improving services)</p></li></ul><h4 dir=\"auto\"><strong>How We Share Your Information</strong></h4><p dir=\"auto\">We do not sell your personal information to third parties. We may share your information with:</p><p dir=\"auto\"><strong>Service Providers:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Finance and leasing companies (for financing applications)</p></li><li data-preset-tag=\"p\"><p>Vehicle history check providers (HPI, Experian Automotive)</p></li><li data-preset-tag=\"p\"><p>Payment processors</p></li><li data-preset-tag=\"p\"><p>Email marketing platforms</p></li><li data-preset-tag=\"p\"><p>Website hosting and analytics providers</p></li><li data-preset-tag=\"p\"><p>Customer relationship management (CRM) systems</p></li></ul><p dir=\"auto\"><strong>Legal Requirements:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Law enforcement or regulatory authorities when required by law</p></li><li data-preset-tag=\"p\"><p>Courts or legal proceedings</p></li><li data-preset-tag=\"p\"><p>Protection of our rights and property</p></li></ul><p dir=\"auto\"><strong>Business Transfers:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>In the event of a merger, acquisition, or sale of assets, your information may be transferred to the acquiring entity</p></li></ul><p dir=\"auto\">All third parties are contractually obligated to protect your data and use it only for specified purposes.</p><h4 dir=\"auto\"><strong>Data Retention</strong></h4><p dir=\"auto\">We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law.</p><p dir=\"auto\"><strong>Retention Periods:</strong></p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p><strong>Enquiry Data:</strong> 2 years from last contact</p></li><li data-preset-tag=\"p\"><p><strong>Customer Purchase Data:</strong> 7 years (tax and accounting requirements)</p></li><li data-preset-tag=\"p\"><p><strong>Marketing Consent:</strong> Until you withdraw consent or 3 years of inactivity</p></li><li data-preset-tag=\"p\"><p><strong>CCTV Footage:</strong> 30 days (unless required for legal proceedings)</p></li><li data-preset-tag=\"p\"><p><strong>Financial Records:</strong> 7 years (legal requirement)</p></li></ul><p dir=\"auto\">After the retention period, we will securely delete or anonymize your personal data.</p><h4 dir=\"auto\"><strong>Your Rights Under GDPR</strong></h4><p dir=\"auto\">You have the following rights regarding your personal data:</p><p dir=\"auto\"><strong>Right to Access:</strong> Request a copy of the personal data we hold about you</p><p dir=\"auto\"><strong>Right to Rectification:</strong> Request correction of inaccurate or incomplete data</p><p dir=\"auto\"><strong>Right to Erasure (\"Right to be Forgotten\"):</strong> Request deletion of your personal data (subject to legal obligations)</p><p dir=\"auto\"><strong>Right to Restrict Processing:</strong> Request that we limit how we use your data</p><p dir=\"auto\"><strong>Right to Data Portability:</strong> Request a copy of your data in a commonly used format</p><p dir=\"auto\"><strong>Right to Object:</strong> Object to processing based on legitimate interests or for direct marketing purposes</p><p dir=\"auto\"><strong>Right to Withdraw Consent:</strong> Withdraw consent at any time (without affecting prior lawful processing)</p><p dir=\"auto\"><strong>Right to Lodge a Complaint:</strong> File a complaint with the Information Commissioner's Office (ICO) if you believe we've mishandled your data</p><p dir=\"auto\">To exercise any of these rights, please contact us at [PRIVACY EMAIL ADDRESS].</p><h4 dir=\"auto\"><strong>Data Security</strong></h4><p dir=\"auto\">We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction, including:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>SSL/TLS encryption for data transmission</p></li><li data-preset-tag=\"p\"><p>Secure servers and firewalls</p></li><li data-preset-tag=\"p\"><p>Access controls and authentication</p></li><li data-preset-tag=\"p\"><p>Regular security audits and updates</p></li><li data-preset-tag=\"p\"><p>Staff training on data protection</p></li><li data-preset-tag=\"p\"><p>Secure disposal of physical records</p></li></ul><p dir=\"auto\">However, no method of transmission over the internet is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.</p><h4 dir=\"auto\"><strong>International Data Transfers</strong></h4><p dir=\"auto\">Your information may be transferred to and processed in countries outside the UK/European Economic Area (EEA). When we transfer data internationally, we ensure appropriate safeguards are in place, such as:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Standard Contractual Clauses approved by the European Commission</p></li><li data-preset-tag=\"p\"><p>Adequacy decisions by the European Commission</p></li><li data-preset-tag=\"p\"><p>Binding Corporate Rules</p></li></ul><h4 dir=\"auto\"><strong>Children's Privacy</strong></h4><p dir=\"auto\">Our services are not intended for individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have inadvertently collected information from a child, please contact us immediately.</p><h4 dir=\"auto\"><strong>Third-Party Links</strong></h4><p dir=\"auto\">Our website may contain links to third-party websites (e.g., finance providers, manufacturer websites). We are not responsible for the privacy practices of these external sites. We encourage you to review their privacy policies.</p><h4 dir=\"auto\"><strong>Marketing Communications</strong></h4><p dir=\"auto\">With your consent, we may send you marketing communications about:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>New vehicle arrivals</p></li><li data-preset-tag=\"p\"><p>Special offers and promotions</p></li><li data-preset-tag=\"p\"><p>Events and test drive opportunities</p></li><li data-preset-tag=\"p\"><p>Industry news and insights</p></li></ul><p dir=\"auto\">You can opt out of marketing communications at any time by:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Clicking \"unsubscribe\" in any email</p></li><li data-preset-tag=\"p\"><p>Contacting us at [EMAIL ADDRESS]</p></li><li data-preset-tag=\"p\"><p>Updating your preferences in your account settings</p></li></ul><p dir=\"auto\">Even if you opt out of marketing, we may still send you service-related communications (e.g., appointment confirmations, purchase updates).</p><h4 dir=\"auto\"><strong>Changes to This Privacy Policy</strong></h4><p dir=\"auto\">We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of significant changes by:</p><ul dir=\"auto\"><li data-preset-tag=\"p\"><p>Posting the updated policy on our website</p></li><li data-preset-tag=\"p\"><p>Updating the \"Last Updated\" date</p></li><li data-preset-tag=\"p\"><p>Sending an email notification (for material changes)</p></li></ul><p dir=\"auto\">Your continued use of our services after changes constitute acceptance of the updated policy.</p><h4 dir=\"auto\"><strong>Contact Us</strong></h4><p dir=\"auto\">If you have questions about this Privacy Policy or wish to exercise your data rights, please contact us:</p><p dir=\"auto\"><strong>[DEALERSHIP NAME]</strong><br>Email: [PRIVACY EMAIL]<br>Phone: [PHONE NUMBER]<br>Address: [PHYSICAL ADDRESS]</p><p dir=\"auto\"><strong>Data Protection Officer:</strong><br>Email: [DPO EMAIL]</p><p dir=\"auto\"><strong>Supervisory Authority:</strong><br>Information Commissioner's Office (ICO)<br>Website: <a href=\"https://ico.org.uk/\">https://ico.org.uk</a><br>Helpline: 0303 123 1113</p>"
+        }
+      }
+    }
+  ]
+}
