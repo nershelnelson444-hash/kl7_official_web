@@ -1,10 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Button from './Button';
+import kl7logo from '../assets/kl7logo.png';
 
 export default function Footer() {
   return (
-    <footer className="w-full bg-black-main text-white pt-24 pb-8 px-4 md:px-8">
+    <footer className="w-full bg-black-main text-white pt-24 pb-8 px-4 md:px-8 relative z-10">
       <div className="max-w-[1480px] mx-auto flex flex-col gap-16">
 
         {/* Top Section */}
@@ -12,13 +13,8 @@ export default function Footer() {
 
           {/* Brand & CTA */}
           <div className="flex flex-col gap-6 max-w-[400px]">
-            <Link to="/" className="flex items-center gap-2">
-              <svg width="32" height="32" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
-                <path d="M12 2L2 7L12 12L22 7L12 2Z" />
-                <path d="M2 17L12 22L22 17" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-                <path d="M2 12L12 17L22 12" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-              </svg>
-              <span className="text-2xl font-bold tracking-tight">KL7 GARAGE</span>
+            <Link to="/" className="flex items-center">
+              <img src={kl7logo} alt="KL7 Garage" className="h-16 w-auto object-contain" />
             </Link>
 
             <h2 className="text-[32px] font-bold leading-tight tracking-[-0.03em]">

@@ -1,29 +1,17 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence, useScroll, useTransform } from 'framer-motion';
 import Button from './Button';
+import kl7logo from '../assets/kl7logo.png';
 
 export default function Nav() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const { scrollY } = useScroll();
+  const navigate = useNavigate();
 
-  const backgroundColor = useTransform(
-    scrollY,
-    [0, 50],
-    ["rgba(242, 242, 242, 1)", "rgba(242, 242, 242, 0.85)"]
-  );
-
-  const backdropFilter = useTransform(
-    scrollY,
-    [0, 50],
-    ["blur(0px)", "blur(12px)"]
-  );
-
-  const borderBottom = useTransform(
-    scrollY,
-    [0, 50],
-    ["1px solid rgba(230, 230, 230, 1)", "1px solid rgba(230, 230, 230, 0.5)"]
-  );
+  const backgroundColor = useTransform(scrollY, [0, 50], ["rgba(242, 242, 242, 1)", "rgba(242, 242, 242, 0.85)"]);
+  const backdropFilter = useTransform(scrollY, [0, 50], ["blur(0px)", "blur(12px)"]);
+  const borderBottom = useTransform(scrollY, [0, 50], ["1px solid rgba(230, 230, 230, 1)", "1px solid rgba(230, 230, 230, 0.5)"]);
 
   const navLinks = [
     { label: 'Home', to: '/' },
@@ -32,6 +20,19 @@ export default function Nav() {
     { label: 'About', to: '/about-us' },
     { label: 'Contact', to: '/contact' },
   ];
+
+  const ProfileIcon = () => (
+    <button
+      onClick={() => navigate('/admin')}
+      className="w-[46px] h-[46px] rounded-full flex items-center justify-center border border-grey-main text-black transition-transform hover:scale-105 bg-white shrink-0"
+      title="Admin Login"
+    >
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+        <circle cx="12" cy="7" r="4" />
+      </svg>
+    </button>
+  );
 
   return (
     <>
@@ -43,53 +44,55 @@ export default function Nav() {
         transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] as [number, number, number, number] }}
       >
         <div className="max-w-[1480px] mx-auto flex flex-row items-center justify-between">
-          {/* Social Links (Left) */}
-          <div className="hidden md:flex flex-row items-center gap-2">
-            <a href="#" className="w-[46px] h-[46px] rounded-full flex items-center justify-center border border-grey-main text-black transition-transform hover:scale-105">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-            </a>
-            <a href="#" className="w-[46px] h-[46px] rounded-full flex items-center justify-center border border-grey-main text-black transition-transform hover:scale-105">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
-            </a>
+
+          {/* Left — Logo */}
+          <Link to="/" className="bg-black rounded-xl px-3 py-1.5 flex items-center shrink-0">
+            <img src={kl7logo} alt="KL7 Garage" className="h-10 w-auto object-contain" />
+          </Link>
+
+          {/* Center — Nav Links (desktop) */}
+          <div className="hidden lg:flex flex-row items-center gap-6 absolute left-1/2 -translate-x-1/2">
+            {navLinks.map(({ label, to }) => (
+              <Link
+                key={to}
+                to={to}
+                className="text-text-black font-medium text-base hover:text-text-black-muted transition-colors relative group"
+              >
+                {label}
+                <span className="absolute left-0 bottom-[-4px] w-0 h-[2px] bg-black transition-all duration-300 group-hover:w-full" />
+              </Link>
+            ))}
           </div>
 
-          {/* Center Logo & Nav Links */}
-          <div className="flex flex-row items-center gap-12">
-            <Link to="/" className="text-2xl font-bold font-sans tracking-tight">KL7 Garage</Link>
-
-            <div className="hidden lg:flex flex-row items-center gap-6">
-              {navLinks.map(({ label, to }) => (
-                <Link
-                  key={to}
-                  to={to}
-                  className="text-text-black font-medium text-base hover:text-text-black-muted transition-colors relative group"
-                >
-                  {label}
-                  <span className="absolute left-0 bottom-[-4px] w-0 h-[2px] bg-black transition-all duration-300 group-hover:w-full" />
-                </Link>
-              ))}
+          {/* Right — CTA + Profile (desktop) + hamburger */}
+          <div className="flex flex-row items-center gap-3">
+            {/* Desktop: Get in Touch + Profile */}
+            <div className="hidden md:flex flex-row items-center gap-3">
+              <Button asLink to="/contact" variant="primary">
+                Get in Touch
+              </Button>
+              <ProfileIcon />
             </div>
-          </div>
 
-          {/* Right Action */}
-          <div className="flex flex-row items-center gap-4">
-            <Button asLink to="/contact" variant="primary" className="hidden md:flex">
-              Get in Touch
-            </Button>
+            {/* Mobile: Profile + Hamburger */}
+            <div className="flex md:hidden flex-row items-center gap-3">
+              <ProfileIcon />
+              <button
+                className="flex flex-col justify-center items-center w-[46px] h-[46px] rounded-full border border-grey-main bg-white"
+                onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              >
+                <motion.span animate={{ rotate: isMobileMenuOpen ? 45 : 0, y: isMobileMenuOpen ? 4 : -2 }} className="block w-5 h-[2px] bg-black mb-[4px]" />
+                <motion.span animate={{ rotate: isMobileMenuOpen ? -45 : 0, y: isMobileMenuOpen ? -4 : 2 }} className="block w-5 h-[2px] bg-black" />
+              </button>
+            </div>
 
-            {/* Mobile Menu Toggle */}
+            {/* Tablet: hamburger only (md to lg) */}
             <button
-              className="lg:hidden flex flex-col justify-center items-center w-[46px] h-[46px] rounded-full border border-grey-main bg-white"
+              className="hidden md:flex lg:hidden flex-col justify-center items-center w-[46px] h-[46px] rounded-full border border-grey-main bg-white"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             >
-              <motion.span
-                animate={{ rotate: isMobileMenuOpen ? 45 : 0, y: isMobileMenuOpen ? 4 : -2 }}
-                className="block w-5 h-[2px] bg-black mb-[4px]"
-              />
-              <motion.span
-                animate={{ rotate: isMobileMenuOpen ? -45 : 0, y: isMobileMenuOpen ? -4 : 2 }}
-                className="block w-5 h-[2px] bg-black"
-              />
+              <motion.span animate={{ rotate: isMobileMenuOpen ? 45 : 0, y: isMobileMenuOpen ? 4 : -2 }} className="block w-5 h-[2px] bg-black mb-[4px]" />
+              <motion.span animate={{ rotate: isMobileMenuOpen ? -45 : 0, y: isMobileMenuOpen ? -4 : 2 }} className="block w-5 h-[2px] bg-black" />
             </button>
           </div>
         </div>
@@ -110,12 +113,8 @@ export default function Nav() {
                 <Link key={to} to={to} onClick={() => setIsMobileMenuOpen(false)}>{label}</Link>
               ))}
             </div>
-            <div className="mt-auto flex flex-col gap-6">
-              <div className="flex flex-row gap-4">
-                <a href="#" className="w-[46px] h-[46px] rounded-full flex items-center justify-center border border-grey-main text-black">fb</a>
-                <a href="#" className="w-[46px] h-[46px] rounded-full flex items-center justify-center border border-grey-main text-black">ig</a>
-              </div>
-              <Button asLink to="/contact" variant="primary" onClick={() => setIsMobileMenuOpen(false)} className="text-center text-lg">
+            <div className="mt-auto">
+              <Button asLink to="/contact" variant="primary" onClick={() => setIsMobileMenuOpen(false)} className="text-center text-lg w-full">
                 Get in Touch
               </Button>
             </div>

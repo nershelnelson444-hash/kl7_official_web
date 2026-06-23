@@ -110,6 +110,8 @@ export default function Inventory() {
   const [filters, setFilters] = useState<FilterState>(defaultFilters);
   const [appliedFilters, setAppliedFilters] = useState<FilterState>(defaultFilters);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
+  const ITEMS_PER_PAGE = 8;
 
   // ── Fetch from Supabase ───────────────────────────────────────────────────
   useEffect(() => {
@@ -174,11 +176,13 @@ export default function Inventory() {
   const applyFilters = () => {
     setAppliedFilters(filters);
     setMobileFiltersOpen(false);
+    setCurrentPage(1);
   };
 
   const resetFilters = () => {
     setFilters(defaultFilters);
     setAppliedFilters(defaultFilters);
+    setCurrentPage(1);
   };
 
   const activeFilterCount =
@@ -229,7 +233,7 @@ export default function Inventory() {
         <div className="max-w-[1480px] w-full px-8 mx-auto py-4 flex flex-col gap-4">
           <div className="flex flex-col md:flex-row items-stretch md:items-center gap-4">
             {/* Search */}
-            <div className="hero-search-container w-full md:w-[320px] shrink-0 h-[48px] bg-white border border-grey-main px-5 flex items-center gap-3">
+            <div className="hero-search-container w-full md:w-[320px] shrink-0 h-[60px] bg-white border border-grey-main px-5 flex items-center gap-3">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-text-black-muted shrink-0">
                 <circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" />
               </svg>
@@ -238,7 +242,7 @@ export default function Inventory() {
                 placeholder="Search brands, models..."
                 className="hero-search-bar bg-transparent outline-none text-text-black placeholder:text-text-extra-muted font-medium text-sm"
                 value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
+                onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }}
               />
             </div>
 
@@ -324,15 +328,71 @@ export default function Inventory() {
             )}
 
             {/* Results */}
-            {!loading && !error && filteredInventory.length > 0 && (
-              <StaggerContainer delayChildren={0.1} staggerChildren={0.08} className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-                {filteredInventory.map((bike) => (
-                  <StaggerItem key={bike.id}>
-                    <CarsCard item={bikeToCardItem(bike)} />
-                  </StaggerItem>
-                ))}
-              </StaggerContainer>
-            )}
+            {!loading && !error && filteredInventory.length > 0 && (() => {
+              const totalPages = Math.ceil(filteredInventory.length / ITEMS_PER_PAGE);
+              const paginated = filteredInventory.slice((currentPage - 1) * ITEMS_PER_PAGE, currentPage * ITEMS_PER_PAGE);
+
+              const getPageNumbers = () => {
+                const pages: (number | '...')[] = [];
+                if (totalPages <= 5) {
+                  for (let i = 1; i <= totalPages; i++) pages.push(i);
+                } else {
+                  pages.push(1);
+                  if (currentPage > 3) pages.push('...');
+                  for (let i = Math.max(2, currentPage - 1); i <= Math.min(totalPages - 1, currentPage + 1); i++) pages.push(i);
+                  if (currentPage < totalPages - 2) pages.push('...');
+                  pages.push(totalPages);
+                }
+                return pages;
+              };
+
+              return (
+                <>
+                  <StaggerContainer delayChildren={0.1} staggerChildren={0.08} className="grid grid-cols-2 md:grid-cols-2 xl:grid-cols-3 gap-3 md:gap-6">
+                    {paginated.map((bike) => (
+                      <StaggerItem key={bike.id}>
+                        <CarsCard item={bikeToCardItem(bike)} />
+                      </StaggerItem>
+                    ))}
+                  </StaggerContainer>
+
+                  {/* Pagination */}
+                  {totalPages > 1 && (
+                    <div className="flex flex-row items-center justify-center gap-1 mt-12 flex-wrap">
+                      <button
+                        onClick={() => { setCurrentPage(p => Math.max(1, p - 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                        disabled={currentPage === 1}
+                        className="w-10 h-10 rounded-full border border-grey-main flex items-center justify-center text-sm font-medium disabled:opacity-30 hover:bg-black hover:text-white hover:border-black transition-colors"
+                      >
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M15 18l-6-6 6-6"/></svg>
+                      </button>
+
+                      {getPageNumbers().map((page, i) =>
+                        page === '...' ? (
+                          <span key={`dots-${i}`} className="w-10 h-10 flex items-center justify-center text-text-black-muted text-sm">…</span>
+                        ) : (
+                          <button
+                            key={page}
+                            onClick={() => { setCurrentPage(page as number); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                            className={`w-10 h-10 rounded-full border text-sm font-medium transition-colors ${currentPage === page ? 'bg-black text-white border-black' : 'border-grey-main hover:bg-black hover:text-white hover:border-black'}`}
+                          >
+                            {page}
+                          </button>
+                        )
+                      )}
+
+                      <button
+                        onClick={() => { setCurrentPage(p => Math.min(totalPages, p + 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                        disabled={currentPage === totalPages}
+                        className="w-10 h-10 rounded-full border border-grey-main flex items-center justify-center text-sm font-medium disabled:opacity-30 hover:bg-black hover:text-white hover:border-black transition-colors"
+                      >
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M9 18l6-6-6-6"/></svg>
+                      </button>
+                    </div>
+                  )}
+                </>
+              );
+            })()}
           </div>
         </div>
       </section>

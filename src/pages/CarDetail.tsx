@@ -60,7 +60,7 @@ export default function CarDetail() {
         </div>
 
         {/* Hero Gallery */}
-        <div className="w-full h-[50vh] md:h-[70vh] rounded-[24px] overflow-hidden bg-background-mid">
+        <div className="w-full aspect-video rounded-[24px] overflow-hidden bg-background-mid">
           {images.length > 0 ? (
             <Carousel {...carouselProps} />
           ) : (
